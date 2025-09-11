@@ -1,0 +1,11 @@
+case_id,child_name,age,guardian_contact,location,school_enrollment,protection_incident,access_level,area_control,health_status,support_services
+1,Abdi Mohamed,9,+252612345678,Mogadishu,Yes,No,Restricted,Government,Fair,Child Nutrition Program
+2,Zahra Ali,12,+252698765432,Hargeisa,Yes,Yes,Open,Local Authority,Good,Psychosocial Support
+3,Ahmed Warsame,7,+252698765123,Baidoa,No,No,Restricted,Al-Shabaab,Poor,Emergency Medical Aid
+4,Amina Yusuf,11,+252612345987,Garowe,Yes,Yes,Open,Government,Good,Education Support
+5,Mohamed Hassan,8,+252612345654,Kismayo,No,Yes,Restricted,Local Authority,Fair,Protection Officer Visit
+6,Fatima Abdi,10,+252698765456,Bosaso,Yes,No,Open,Government,Good,Family Tracing Services
+7,Khadija Noor,13,+252698765789,Dhusa Mareeb,No,Yes,Restricted,Clan Militia,Poor,Emergency Shelter
+8,Yusuf Ismail,6,+252612345321,Beledweyne,No,No,Restricted,Clan Militia,Poor,Food Assistance
+9,Halima Farah,9,+252698765654,Galkayo,Yes,Yes,Open,Government,Good,Child Protection Team
+10,Osman Abdullahi,8,+252612345876,Marka,No,No,Restricted,Al-Shabaab,Poor,Health Check-up

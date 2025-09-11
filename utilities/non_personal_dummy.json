@@ -1,0 +1,12 @@
+{
+    "Burundi Civilian Targeting Events May 2025": {
+        "metadata": {
+            "isp_used": "OCHA Burundi",
+            "non_pii": "NON_SENSITIVE",
+            "non_pii_Qwen3-14B": "NON_SENSITIVE",
+            "non_pii_Qwen3-14B_explanation": "- Sensitivity Classification: NON_SENSITIVE  \n- List with ONLY the columns that are sensitive or in combination with other columns are sensitive: None  \n- Cited ISP Rule(s): The table contains administrative boundary data (e.g., Country, Admin1, Admin2, ISO3, Admin2 Pcode, Admin1 Pcode) and aggregated event data (Events, Fatalities) without any personal or individual-level information. This aligns with the **NON_SENSITIVE** category under ISP, which explicitly includes \"Administrative boundaries (COD AB) and demographic statistics (COD-PS)\" and \"Flash updates on a specific crisis.\" There is no indication of personal data, raw survey data, or any other sensitive information in the table.",
+            "non_pii_no_isp_Qwen3-14B": "NON_SENSITIVE",
+            "non_pii_no_isp_Qwen3-14B_explanation": "- Sensitivity Classification: **NON_SENSITIVE**  \n- Explain why you chose the sensitivity level:  \n  The table contains administrative and geographical data (e.g., Country, Admin1, Admin2, ISO3, Admin2 Pcode, Admin1 Pcode), along with temporal data (Month, Year) and aggregated event statistics (Events, Fatalities). None of the columns contain personally identifiable information (PII), sensitive personal data, or any information that could directly or indirectly harm individuals or impede humanitarian efforts if disclosed. The data appears to be aggregated and anonymized, with no individual-level details. As such, the table is classified as **NON_SENSITIVE**."
+        }
+    }
+}

@@ -1,0 +1,11 @@
+site_id,site_name,camp_location,population_estimate,organization_in_charge,access_restrictions,conflict_sensitivity_level,household_vulnerability_index,incident_reports,contact_person,contact_number
+1,Thiri Camp,Mandalay,1500,UNHCR,Limited,High,0.7,3,Aung Kyaw Moe,+959123456789
+2,Aung Mingalar Site,Yangon,2300,IRC,Open,Medium,0.5,1,Sanda Win,+959987654321
+3,Zay Yar Thiri Camp,Naypyitaw,1800,Save the Children,Restricted,High,0.8,5,Kyaw Lin Oo,+959555666777
+4,Shwe Pyi Thar Camp,Taunggyi,2500,MSF,Limited,Low,0.3,0,Su Su Hlaing,+959111222333
+5,Myat Lay Nya Camp,Bago,2000,CARE,Open,Medium,0.6,2,Hla Tun,+959333444555
+6,Myint Mo Camp,Mawlamyine,1750,World Vision,Restricted,High,0.9,4,Thandar Aye,+959666777888
+7,Shwe Bon Thar Site,Pathein,2400,Plan International,Limited,Medium,0.4,1,Maung Maung,+959888999000
+8,Su Hlaing Camp,Sittwe,1300,UNICEF,Open,Low,0.2,0,Kyaw Zaw Lin,+959444555666
+9,Kyauk Phyu Camp,Dawei,2200,ActionAid,Restricted,High,0.7,3,San Hlaing,+959777888999
+10,Hlaing Thar Yar Site,Myeik,2100,Danish Refugee Council,Limited,Medium,0.5,2,Hnin Thandar,+959111333555

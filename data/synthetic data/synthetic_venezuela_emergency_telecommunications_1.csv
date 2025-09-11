@@ -1,0 +1,11 @@
+region_id,community_name,telecom_infrastructure,access_restrictions,incident_reports,service_provider,emergency_contact,network_coverage,communication_hubs,hazard_alerts,aid_distribution_centers
+101,Maracaibo,Limited,Restricted Area,2,TeleVenezuela,+58-412-3456789,High,3,5,Centro Deportivo
+102,Caracas,Functional,Open,0,VeneSat,+58-414-9876543,Moderate,5,2,Plaza Mayor
+103,Valencia,Damaged,Restricted Area,4,Movilnet,+58-416-1234567,Low,1,7,Centro Cultural
+104,Maracay,Functional,Limited Access,1,Digitel,+58-412-7654321,Moderate,2,3,Estadio Olímpico
+105,Barquisimeto,Limited,Open,0,TeleVenezuela,+58-414-2345678,High,4,1,Parque del Este
+106,Ciudad Guayana,Non-functional,Restricted Area,5,VeneSat,+58-416-8765432,Low,0,8,Complejo Ferial
+107,Barcelona,Functional,Limited Access,1,Movilnet,+58-412-5678901,Moderate,3,4,Campo de Fútbol
+108,Maturín,Damaged,Restricted Area,3,Digitel,+58-414-6789012,Low,1,6,Gimnasio Municipal
+109,San Cristóbal,Functional,Open,0,TeleVenezuela,+58-416-7890123,High,5,2,Auditorio Central
+110,Puerto Ordaz,Non-functional,Restricted Area,6,VeneSat,+58-412-8901234,Low,0,9,Centro de Convenciones

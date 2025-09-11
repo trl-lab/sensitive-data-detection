@@ -1,0 +1,11 @@
+report_id,region,organization_activity,service_status,incident_type,admin_level,control_zone,vulnerability_score,facility_availability,report_date,location_coordinates
+001,Kabul,NGO-A,Active,Domestic Violence District 1,High,Restricted,75%,Partial,2023-09-01,"34.5553° N, 69.2075° E"
+002,Herat,NGO-B,Disrupted,Sexual Assault District 3,Medium,Contested,85%,Available,2023-09-03,"34.3529° N, 62.2041° E"
+003,Kandahar,NGO-C,Active,Child Marriage District 5,Low,Safe,60%,Limited,2023-09-05,"31.6289° N, 65.7372° E"
+004,Balkh,NGO-D,Active,Forced Labor District 2,High,Restricted,90%,Available,2023-09-07,"36.7551° N, 66.8976° E"
+005,Nangarhar,NGO-E,Disrupted,Honor Killing District 4,Medium,Contested,70%,Partial,2023-09-09,"34.1718° N, 70.6212° E"
+006,Bamyan,NGO-F,Active,Sexual Violence District 1,Low,Safe,80%,Available,2023-09-11,"34.8100° N, 67.8210° E"
+007,Badakhshan,NGO-G,Delayed,Trafficking District 6,High,Restricted,65%,Limited,2023-09-13,"36.7348° N, 70.8110° E"
+008,Ghazni,NGO-H,Active,Domestic Violence District 3,Medium,Contested,55%,Available,2023-09-15,"33.5567° N, 68.4190° E"
+009,Kunduz,NGO-I,Disrupted,Sexual Assault District 5,High,Restricted,78%,Partial,2023-09-17,"36.7286° N, 68.8725° E"
+010,Zabul,NGO-J,Active,Child Marriage District 4,Low,Safe,82%,Available,2023-09-19,"32.1917° N, 66.7736° E"

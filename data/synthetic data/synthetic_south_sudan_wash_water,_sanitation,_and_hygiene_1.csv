@@ -1,0 +1,11 @@
+facility_id,region,water_source_type,sanitation_coverage,organization_in_charge,contact_person,contact_number,security_incidents,restricted_areas,service_reliability,access_notes
+F001,Juba,Borehole,75%,UNICEF,John Deng,+211912345678,5,Zone A,High,Access limited during floods
+F002,Bor,Rainwater Harvesting,60%,Oxfam,Grace Akot,+211923456789,2,Zone B,Medium,Checkpoints may delay access
+F003,Malakal,Well,50%,CARE International,Peter Lado,+211934567890,3,Zone C,Low,Curfews affect operation hours
+F004,Wau,Surface Water,80%,World Vision,Anna Tito,+211945678901,4,Zone A,High,Access through temporary bridges
+F005,Yambio,Spring,65%,Red Cross,James Lino,+211956789012,1,Zone D,Medium,Seasonal road access issues
+F006,Torit,Borehole,70%,UNHCR,Mary Kiden,+211967890123,6,Zone E,High,Sporadic security checks at entry
+F007,Kuajok,Rainwater Harvesting,55%,Save the Children,Paulina Jok,+211978901234,0,Zone F,Low,Regular access with minor delays
+F008,Bentiu,Well,85%,MSF,Robert Arop,+211989012345,3,Zone G,Medium,Occasional conflict-related disruptions
+F009,Rumbek,Surface Water,90%,IRC,Lilian Deng,+211990123456,2,Zone H,High,Access restricted during local events
+F010,Aweil,Spring,78%,Plan International,Samuel Yor,+211901234567,4,Zone I,Medium,Limited access due to logistics

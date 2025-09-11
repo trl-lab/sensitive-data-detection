@@ -1,0 +1,11 @@
+facility_id,facility_name,region,service_provided,enrollment_capacity,access_constraints,security_situation,vulnerability_index,contact_name,contact_number,last_assessment_date
+1,École Primaire de Niamey,Niamey,Primary Education,500,Limited access due to flooding,Stable,Low,Moussa Issa,+22791234567,2023-06-15
+2,Lycée Général Seyni Kountché,Tillabéri,Secondary Education,800,Restricted due to road conditions,Moderate,Medium,Fatoumata Harouna,+22792345678,2023-07-20
+3,Centre de Formation Professionnelle de Zinder,Zinder,Vocational Training,300,Accessible,High risk due to nearby conflict,High,Ibrahim Oumarou,+22793456789,2023-07-05
+4,École Secondaire de Tessaoua,Maradi,Secondary Education,600,Accessible,Stable,Medium,Aisha Mahamadou,+22794567890,2023-08-10
+5,Institution Technique de Dosso,Dosso,Technical Education,450,Seasonal access issues,Stable,Low,Abdoulaye Souley,+22795678901,2023-09-25
+6,École Primaire de Tahoua,Tahoua,Primary Education,550,Restricted during rainy season,Stable,Low,Salou Djibo,+22796789012,2023-06-30
+7,Lycée Technique de Diffa,Diffa,Technical Education,700,High security risk area,High risk due to armed groups,High,Mariam Daouda,+22797890123,2023-07-18
+8,École Secondaire de Dosso,Dosso,Secondary Education,650,Accessible,Stable,Medium,Hamza Lawal,+22798901234,2023-08-24
+9,Centre de Formation de Niamey,Niamey,Vocational Training,350,Access limited by permits,Stable,Medium,Hadjara Amadou,+22799012345,2023-09-10
+10,École Primaire de Tillabéri,Tillabéri,Primary Education,400,Restricted due to construction,Moderate,Medium,Aliyu Boubacar,+22790123456,2023-08-05

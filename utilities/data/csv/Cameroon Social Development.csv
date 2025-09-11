@@ -1,0 +1,896 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Cameroon,CMR,2020,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.945840001106262
+Cameroon,CMR,2018,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.87211000919342
+Cameroon,CMR,2011,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.844569742679596
+Cameroon,CMR,2010,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Cameroon,CMR,2007,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Cameroon,CMR,2004,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.831183195114136
+Cameroon,CMR,2000,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Cameroon,CMR,1976,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Cameroon,CMR,2019,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.901210010051727
+Cameroon,CMR,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.901619970798492
+Cameroon,CMR,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.900560021400452
+Cameroon,CMR,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.90038001537323
+Cameroon,CMR,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.898259997367859
+Cameroon,CMR,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.890879988670349
+Cameroon,CMR,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.876330018043518
+Cameroon,CMR,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.869470000267029
+Cameroon,CMR,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.863910019397736
+Cameroon,CMR,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.86584997177124
+Cameroon,CMR,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.859520018100739
+Cameroon,CMR,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.859759986400604
+Cameroon,CMR,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.838069975376129
+Cameroon,CMR,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.837920010089874
+Cameroon,CMR,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.856299996376038
+Cameroon,CMR,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.852970004081726
+Cameroon,CMR,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.861000001430511
+Cameroon,CMR,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.868860006332397
+Cameroon,CMR,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.854179978370667
+Cameroon,CMR,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.824240028858185
+Cameroon,CMR,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.832419991493225
+Cameroon,CMR,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.871410012245178
+Cameroon,CMR,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.859369993209839
+Cameroon,CMR,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.901660025119781
+Cameroon,CMR,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.900910019874573
+Cameroon,CMR,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.921190023422241
+Cameroon,CMR,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.86191999912262
+Cameroon,CMR,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.858959972858429
+Cameroon,CMR,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.856029987335205
+Cameroon,CMR,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.854629993438721
+Cameroon,CMR,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.851499974727631
+Cameroon,CMR,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.845319986343384
+Cameroon,CMR,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.841229975223541
+Cameroon,CMR,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.843209981918335
+Cameroon,CMR,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.841319978237152
+Cameroon,CMR,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.841579973697662
+Cameroon,CMR,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.838349997997284
+Cameroon,CMR,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.837109982967377
+Cameroon,CMR,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.831950008869171
+Cameroon,CMR,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.820749998092651
+Cameroon,CMR,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.816659986972809
+Cameroon,CMR,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.807609975337982
+Cameroon,CMR,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.795050024986267
+Cameroon,CMR,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.788720011711121
+Cameroon,CMR,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.778020024299622
+Cameroon,CMR,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.768450021743774
+Cameroon,CMR,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.744109988212585
+Cameroon,CMR,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.889680445194244
+Cameroon,CMR,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.889527857303619
+Cameroon,CMR,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.885640025138855
+Cameroon,CMR,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.883459985256195
+Cameroon,CMR,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.876999974250793
+Cameroon,CMR,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.869220018386841
+Cameroon,CMR,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.861349999904633
+Cameroon,CMR,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.856209993362427
+Cameroon,CMR,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.842559993267059
+Cameroon,CMR,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.837960004806519
+Cameroon,CMR,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.828119993209839
+Cameroon,CMR,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.826460003852844
+Cameroon,CMR,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.841090023517609
+Cameroon,CMR,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.848169982433319
+Cameroon,CMR,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.800729990005493
+Cameroon,CMR,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.853860020637512
+Cameroon,CMR,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.826870024204254
+Cameroon,CMR,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.806869983673096
+Cameroon,CMR,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.85505998134613
+Cameroon,CMR,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.847949981689453
+Cameroon,CMR,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.872099995613098
+Cameroon,CMR,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.828980028629303
+Cameroon,CMR,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.822260022163391
+Cameroon,CMR,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.817879974842072
+Cameroon,CMR,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.814869999885559
+Cameroon,CMR,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.810859978199005
+Cameroon,CMR,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.804620027542114
+Cameroon,CMR,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.7985799908638
+Cameroon,CMR,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.797749996185303
+Cameroon,CMR,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.794430017471313
+Cameroon,CMR,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.795090019702911
+Cameroon,CMR,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.790120005607605
+Cameroon,CMR,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.790489971637726
+Cameroon,CMR,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.785449981689453
+Cameroon,CMR,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.775139987468719
+Cameroon,CMR,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.771650016307831
+Cameroon,CMR,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.763960003852844
+Cameroon,CMR,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.753009974956512
+Cameroon,CMR,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.750509977340698
+Cameroon,CMR,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.739709973335266
+Cameroon,CMR,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.732280015945435
+Cameroon,CMR,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.712029993534088
+Cameroon,CMR,2021,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0976597070694
+Cameroon,CMR,2020,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.871883749961853
+Cameroon,CMR,2019,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.865743100643158
+Cameroon,CMR,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.865007758140564
+Cameroon,CMR,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.86700826883316
+Cameroon,CMR,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.857959985733032
+Cameroon,CMR,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.855030000209808
+Cameroon,CMR,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.850319981575012
+Cameroon,CMR,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.854900002479553
+Cameroon,CMR,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.85496997833252
+Cameroon,CMR,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.844569981098175
+Cameroon,CMR,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.809720456600189
+Cameroon,CMR,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.833559989929199
+Cameroon,CMR,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.798780024051666
+Cameroon,CMR,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.774860024452209
+Cameroon,CMR,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.791339993476868
+Cameroon,CMR,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.78847998380661
+Cameroon,CMR,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.787819981575012
+Cameroon,CMR,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.835979998111725
+Cameroon,CMR,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.615400016307831
+Cameroon,CMR,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.810869991779327
+Cameroon,CMR,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.838680028915405
+Cameroon,CMR,1998,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.72681999206543
+Cameroon,CMR,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.802940011024475
+Cameroon,CMR,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.68639999628067
+Cameroon,CMR,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.718020021915436
+Cameroon,CMR,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.71356999874115
+Cameroon,CMR,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.68502002954483
+Cameroon,CMR,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.674950003623962
+Cameroon,CMR,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.659340023994446
+Cameroon,CMR,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.646960020065308
+Cameroon,CMR,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.629199981689453
+Cameroon,CMR,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.614579975605011
+Cameroon,CMR,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.592149972915649
+Cameroon,CMR,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.570770025253296
+Cameroon,CMR,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.565710008144379
+Cameroon,CMR,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.549870014190674
+Cameroon,CMR,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.549860000610352
+Cameroon,CMR,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.539529979228973
+Cameroon,CMR,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.525470018386841
+Cameroon,CMR,1977,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.51104998588562
+Cameroon,CMR,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.485159993171692
+Cameroon,CMR,1975,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.464989989995956
+Cameroon,CMR,1974,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.468239992856979
+Cameroon,CMR,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.442999988794327
+Cameroon,CMR,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.425249993801117
+Cameroon,CMR,1971,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.402920007705688
+Cameroon,CMR,2023,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.829200029373169
+Cameroon,CMR,2022,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.805310010910034
+Cameroon,CMR,2021,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.793179988861084
+Cameroon,CMR,2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.796720027923584
+Cameroon,CMR,2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.866819977760315
+Cameroon,CMR,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.87966001033783
+Cameroon,CMR,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.807439982891083
+Cameroon,CMR,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.874870002269745
+Cameroon,CMR,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.797559976577759
+Cameroon,CMR,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.774119973182678
+Cameroon,CMR,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.768830001354218
+Cameroon,CMR,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.767780005931854
+Cameroon,CMR,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.730139970779419
+Cameroon,CMR,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.808000028133392
+Cameroon,CMR,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.783930003643036
+Cameroon,CMR,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.788240015506744
+Cameroon,CMR,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.782140016555786
+Cameroon,CMR,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.717859983444214
+Cameroon,CMR,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.653540015220642
+Cameroon,CMR,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.634130001068115
+Cameroon,CMR,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.634029984474182
+Cameroon,CMR,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.633899986743927
+Cameroon,CMR,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.154909998178482
+Cameroon,CMR,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.124820001423359
+Cameroon,CMR,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.12347000092268
+Cameroon,CMR,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.098130002617836
+Cameroon,CMR,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.0812299996614456
+Cameroon,CMR,2024,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.8888888888889
+Cameroon,CMR,2023,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.8888888888889
+Cameroon,CMR,2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.8888888888889
+Cameroon,CMR,2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.8888888888889
+Cameroon,CMR,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,33.8888888888889
+Cameroon,CMR,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31.1111111111111
+Cameroon,CMR,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.8888888888889
+Cameroon,CMR,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.8888888888889
+Cameroon,CMR,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.8888888888889
+Cameroon,CMR,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.8888888888889
+Cameroon,CMR,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.8888888888889
+Cameroon,CMR,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.8888888888889
+Cameroon,CMR,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.88888888888889
+Cameroon,CMR,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.88888888888889
+Cameroon,CMR,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.88888888888889
+Cameroon,CMR,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.88888888888889
+Cameroon,CMR,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.88888888888889
+Cameroon,CMR,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.55555555555556
+Cameroon,CMR,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.55555555555556
+Cameroon,CMR,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.55555555555556
+Cameroon,CMR,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.55555555555556
+Cameroon,CMR,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5.55555555555556
+Cameroon,CMR,2022,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.1
+Cameroon,CMR,2021,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.2
+Cameroon,CMR,2020,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.3
+Cameroon,CMR,2019,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.4
+Cameroon,CMR,2018,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.5
+Cameroon,CMR,2017,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.6
+Cameroon,CMR,2016,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.8
+Cameroon,CMR,2015,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.8
+Cameroon,CMR,2014,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.9
+Cameroon,CMR,2013,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2
+Cameroon,CMR,2012,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.1
+Cameroon,CMR,2011,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.2
+Cameroon,CMR,2010,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.4
+Cameroon,CMR,2009,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.6
+Cameroon,CMR,2008,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.7
+Cameroon,CMR,2007,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,3
+Cameroon,CMR,2006,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,3.2
+Cameroon,CMR,2005,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,3.5
+Cameroon,CMR,2004,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,3.9
+Cameroon,CMR,2003,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.2
+Cameroon,CMR,2002,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.4
+Cameroon,CMR,2001,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.7
+Cameroon,CMR,2000,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.8
+Cameroon,CMR,1999,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.7
+Cameroon,CMR,1998,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.5
+Cameroon,CMR,1997,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,4.2
+Cameroon,CMR,1996,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,3.8
+Cameroon,CMR,1995,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,3.2
+Cameroon,CMR,1994,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.7
+Cameroon,CMR,1993,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,2.1
+Cameroon,CMR,1992,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.7
+Cameroon,CMR,1991,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,1.2
+Cameroon,CMR,1990,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.9
+Cameroon,CMR,2022,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.5
+Cameroon,CMR,2021,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.5
+Cameroon,CMR,2020,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.6
+Cameroon,CMR,2019,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.6
+Cameroon,CMR,2018,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.6
+Cameroon,CMR,2017,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.6
+Cameroon,CMR,2016,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,2015,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,2014,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,2013,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,2012,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,2011,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,2010,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.8
+Cameroon,CMR,2009,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.8
+Cameroon,CMR,2008,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.8
+Cameroon,CMR,2007,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.9
+Cameroon,CMR,2006,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.9
+Cameroon,CMR,2005,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1
+Cameroon,CMR,2004,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.1
+Cameroon,CMR,2003,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.2
+Cameroon,CMR,2002,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.3
+Cameroon,CMR,2001,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.4
+Cameroon,CMR,2000,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.5
+Cameroon,CMR,1999,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.5
+Cameroon,CMR,1998,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.4
+Cameroon,CMR,1997,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.4
+Cameroon,CMR,1996,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.2
+Cameroon,CMR,1995,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,1.1
+Cameroon,CMR,1994,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.9
+Cameroon,CMR,1993,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.7
+Cameroon,CMR,1992,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.6
+Cameroon,CMR,1991,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.5
+Cameroon,CMR,1990,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cameroon,CMR,2023,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,77.5781328408621
+Cameroon,CMR,2022,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,77.9229972258777
+Cameroon,CMR,2021,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,78.1857844793422
+Cameroon,CMR,2020,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,79.3436369836573
+Cameroon,CMR,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,79.9102161026514
+Cameroon,CMR,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,80.7778832592917
+Cameroon,CMR,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,81.6447782329947
+Cameroon,CMR,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,82.4920897161736
+Cameroon,CMR,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,83.3036797303861
+Cameroon,CMR,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,84.1080273554049
+Cameroon,CMR,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,84.9343466979817
+Cameroon,CMR,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,85.7334304233082
+Cameroon,CMR,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,86.5312477159252
+Cameroon,CMR,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,87.2748008030332
+Cameroon,CMR,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,88.1026475218468
+Cameroon,CMR,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,88.8489314633954
+Cameroon,CMR,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.5615317992521
+Cameroon,CMR,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.6882373586172
+Cameroon,CMR,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.8184525488537
+Cameroon,CMR,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.9068270760546
+Cameroon,CMR,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.9539034892282
+Cameroon,CMR,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.0301172544107
+Cameroon,CMR,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.1071047665797
+Cameroon,CMR,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.7029662872515
+Cameroon,CMR,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,91.2786988068016
+Cameroon,CMR,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,91.7672049237308
+Cameroon,CMR,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.2006201642871
+Cameroon,CMR,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.5830241892147
+Cameroon,CMR,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.6754932401056
+Cameroon,CMR,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.7317342494326
+Cameroon,CMR,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.8105544207726
+Cameroon,CMR,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.879080452816
+Cameroon,CMR,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,92.9031095952187
+Cameroon,CMR,2023,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,60.3269838013534
+Cameroon,CMR,2022,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,60.6870270495819
+Cameroon,CMR,2021,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,60.8669570366877
+Cameroon,CMR,2020,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,61.8932708723613
+Cameroon,CMR,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,61.9651232135083
+Cameroon,CMR,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,62.7829695051865
+Cameroon,CMR,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,63.6371308218908
+Cameroon,CMR,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,64.4711143102604
+Cameroon,CMR,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,65.3103572603957
+Cameroon,CMR,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,66.2176076846458
+Cameroon,CMR,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,66.4615584622067
+Cameroon,CMR,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,66.7103252954202
+Cameroon,CMR,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,66.9810588268583
+Cameroon,CMR,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,67.1344146747119
+Cameroon,CMR,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,67.9997968421536
+Cameroon,CMR,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,68.816871173473
+Cameroon,CMR,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,69.7338541804222
+Cameroon,CMR,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,69.4177886206745
+Cameroon,CMR,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,69.1054612377399
+Cameroon,CMR,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,68.6636711554529
+Cameroon,CMR,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,68.2740529841742
+Cameroon,CMR,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,67.9062352278696
+Cameroon,CMR,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,67.5088239517279
+Cameroon,CMR,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,68.6012821504599
+Cameroon,CMR,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,69.6385788133477
+Cameroon,CMR,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,70.4431462658064
+Cameroon,CMR,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.0752194418542
+Cameroon,CMR,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.4904940176012
+Cameroon,CMR,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.6492618012817
+Cameroon,CMR,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.6248526636578
+Cameroon,CMR,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.6888397148255
+Cameroon,CMR,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.489184986001
+Cameroon,CMR,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,71.3898872861162
+Cameroon,CMR,2011,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,60.4
+Cameroon,CMR,2007,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,43.4
+Cameroon,CMR,2001,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,17.40652
+Cameroon,CMR,2011,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,63.6
+Cameroon,CMR,2007,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,43.5
+Cameroon,CMR,2001,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,14.46574
+Cameroon,CMR,2011,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,82.1
+Cameroon,CMR,2001,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,41.29682
+Cameroon,CMR,2011,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,87.7
+Cameroon,CMR,2001,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,54.72944
+Cameroon,CMR,2011,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,85
+Cameroon,CMR,2007,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,78.1
+Cameroon,CMR,2001,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,47.50559
+Cameroon,CMR,2011,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,17.9
+Cameroon,CMR,2001,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,58.70318
+Cameroon,CMR,2011,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,12.3
+Cameroon,CMR,2001,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,45.27056
+Cameroon,CMR,2011,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,15
+Cameroon,CMR,2007,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,21.9
+Cameroon,CMR,2001,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,52.49441
+Cameroon,CMR,2011,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,62
+Cameroon,CMR,2007,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,43.4
+Cameroon,CMR,2001,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,15.9114
+Cameroon,CMR,2024,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.371
+Cameroon,CMR,2023,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.308
+Cameroon,CMR,2022,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.452
+Cameroon,CMR,2021,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.623
+Cameroon,CMR,2020,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.34
+Cameroon,CMR,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.785
+Cameroon,CMR,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,35.945
+Cameroon,CMR,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,38.067
+Cameroon,CMR,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,40.181
+Cameroon,CMR,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,42.352
+Cameroon,CMR,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,44.62
+Cameroon,CMR,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,46.644
+Cameroon,CMR,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,48.666
+Cameroon,CMR,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,50.678
+Cameroon,CMR,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,52.676
+Cameroon,CMR,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,56.975
+Cameroon,CMR,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,61.16
+Cameroon,CMR,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.181
+Cameroon,CMR,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.303
+Cameroon,CMR,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.42
+Cameroon,CMR,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.562
+Cameroon,CMR,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.764
+Cameroon,CMR,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.027
+Cameroon,CMR,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.324
+Cameroon,CMR,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.597
+Cameroon,CMR,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.842
+Cameroon,CMR,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.1
+Cameroon,CMR,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.415
+Cameroon,CMR,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.746
+Cameroon,CMR,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.007
+Cameroon,CMR,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.19
+Cameroon,CMR,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.321
+Cameroon,CMR,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.383
+Cameroon,CMR,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.39
+Cameroon,CMR,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.358
+Cameroon,CMR,2024,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,39.101
+Cameroon,CMR,2023,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,39.949
+Cameroon,CMR,2022,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,40.18
+Cameroon,CMR,2021,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,40.268
+Cameroon,CMR,2020,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,41.751
+Cameroon,CMR,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,43.615
+Cameroon,CMR,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.4
+Cameroon,CMR,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.083
+Cameroon,CMR,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,48.735
+Cameroon,CMR,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.483
+Cameroon,CMR,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.399
+Cameroon,CMR,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.599
+Cameroon,CMR,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,56.798
+Cameroon,CMR,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.986
+Cameroon,CMR,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,61.155
+Cameroon,CMR,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.95
+Cameroon,CMR,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.647
+Cameroon,CMR,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.235
+Cameroon,CMR,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.445
+Cameroon,CMR,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.646
+Cameroon,CMR,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.896
+Cameroon,CMR,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.227
+Cameroon,CMR,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.665
+Cameroon,CMR,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,71.16
+Cameroon,CMR,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,71.614
+Cameroon,CMR,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,72.02
+Cameroon,CMR,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,72.444
+Cameroon,CMR,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,72.957
+Cameroon,CMR,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,73.494
+Cameroon,CMR,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,73.918
+Cameroon,CMR,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,74.218
+Cameroon,CMR,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,74.436
+Cameroon,CMR,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,74.579
+Cameroon,CMR,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,74.614
+Cameroon,CMR,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,74.593
+Cameroon,CMR,2024,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,33.742
+Cameroon,CMR,2023,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.634
+Cameroon,CMR,2022,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.821
+Cameroon,CMR,2021,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.95
+Cameroon,CMR,2020,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,36.55
+Cameroon,CMR,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.704
+Cameroon,CMR,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.676
+Cameroon,CMR,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,42.579
+Cameroon,CMR,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.461
+Cameroon,CMR,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,46.421
+Cameroon,CMR,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,48.514
+Cameroon,CMR,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,50.627
+Cameroon,CMR,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.738
+Cameroon,CMR,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,54.839
+Cameroon,CMR,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,56.923
+Cameroon,CMR,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,60.469
+Cameroon,CMR,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,63.909
+Cameroon,CMR,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.212
+Cameroon,CMR,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.379
+Cameroon,CMR,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.537
+Cameroon,CMR,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.733
+Cameroon,CMR,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68
+Cameroon,CMR,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.35
+Cameroon,CMR,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.746
+Cameroon,CMR,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,69.109
+Cameroon,CMR,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,69.435
+Cameroon,CMR,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,69.776
+Cameroon,CMR,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,70.191
+Cameroon,CMR,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,70.625
+Cameroon,CMR,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,70.968
+Cameroon,CMR,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,71.21
+Cameroon,CMR,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,71.385
+Cameroon,CMR,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,71.488
+Cameroon,CMR,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,71.509
+Cameroon,CMR,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,71.482
+Cameroon,CMR,2024,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.05
+Cameroon,CMR,2023,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.679
+Cameroon,CMR,2022,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.7
+Cameroon,CMR,2021,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.588
+Cameroon,CMR,2020,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,58.571
+Cameroon,CMR,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,60.577
+Cameroon,CMR,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,61.991
+Cameroon,CMR,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,63.417
+Cameroon,CMR,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,64.85
+Cameroon,CMR,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,66.277
+Cameroon,CMR,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,67.691
+Cameroon,CMR,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,68.616
+Cameroon,CMR,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,69.534
+Cameroon,CMR,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,70.446
+Cameroon,CMR,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.351
+Cameroon,CMR,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.08
+Cameroon,CMR,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.639
+Cameroon,CMR,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.022
+Cameroon,CMR,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.013
+Cameroon,CMR,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.008
+Cameroon,CMR,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.004
+Cameroon,CMR,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.983
+Cameroon,CMR,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.959
+Cameroon,CMR,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.935
+Cameroon,CMR,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.915
+Cameroon,CMR,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.899
+Cameroon,CMR,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.88
+Cameroon,CMR,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.856
+Cameroon,CMR,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.832
+Cameroon,CMR,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.817
+Cameroon,CMR,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.812
+Cameroon,CMR,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.816
+Cameroon,CMR,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.854
+Cameroon,CMR,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.885
+Cameroon,CMR,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.922
+Cameroon,CMR,2024,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.598
+Cameroon,CMR,2023,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.811
+Cameroon,CMR,2022,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.918
+Cameroon,CMR,2021,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.229
+Cameroon,CMR,2020,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.509
+Cameroon,CMR,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.588
+Cameroon,CMR,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.045
+Cameroon,CMR,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.456
+Cameroon,CMR,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.855
+Cameroon,CMR,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.285
+Cameroon,CMR,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.769
+Cameroon,CMR,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.09
+Cameroon,CMR,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.363
+Cameroon,CMR,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.587
+Cameroon,CMR,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.764
+Cameroon,CMR,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,83.882
+Cameroon,CMR,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,84.936
+Cameroon,CMR,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.93
+Cameroon,CMR,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.99
+Cameroon,CMR,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.05
+Cameroon,CMR,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.136
+Cameroon,CMR,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.223
+Cameroon,CMR,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.352
+Cameroon,CMR,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.505
+Cameroon,CMR,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.646
+Cameroon,CMR,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.775
+Cameroon,CMR,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.906
+Cameroon,CMR,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.064
+Cameroon,CMR,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.232
+Cameroon,CMR,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.366
+Cameroon,CMR,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.47
+Cameroon,CMR,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.554
+Cameroon,CMR,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.676
+Cameroon,CMR,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.736
+Cameroon,CMR,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.785
+Cameroon,CMR,2024,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.769
+Cameroon,CMR,2023,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.193
+Cameroon,CMR,2022,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.259
+Cameroon,CMR,2021,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.862
+Cameroon,CMR,2020,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.498
+Cameroon,CMR,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,68.046
+Cameroon,CMR,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,68.985
+Cameroon,CMR,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.908
+Cameroon,CMR,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,70.828
+Cameroon,CMR,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,71.759
+Cameroon,CMR,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.712
+Cameroon,CMR,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,73.835
+Cameroon,CMR,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.93
+Cameroon,CMR,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.997
+Cameroon,CMR,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,77.037
+Cameroon,CMR,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,78.963
+Cameroon,CMR,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.771
+Cameroon,CMR,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.461
+Cameroon,CMR,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.486
+Cameroon,CMR,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.511
+Cameroon,CMR,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.55
+Cameroon,CMR,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.58
+Cameroon,CMR,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.63
+Cameroon,CMR,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.691
+Cameroon,CMR,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.747
+Cameroon,CMR,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.8
+Cameroon,CMR,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.853
+Cameroon,CMR,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.917
+Cameroon,CMR,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.985
+Cameroon,CMR,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.041
+Cameroon,CMR,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.087
+Cameroon,CMR,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.128
+Cameroon,CMR,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.204
+Cameroon,CMR,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.247
+Cameroon,CMR,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.287
+Cameroon,CMR,2024,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.518
+Cameroon,CMR,2023,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.148
+Cameroon,CMR,2022,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.171
+Cameroon,CMR,2021,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.093
+Cameroon,CMR,2020,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.014
+Cameroon,CMR,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.99
+Cameroon,CMR,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,61.385
+Cameroon,CMR,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.793
+Cameroon,CMR,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,64.207
+Cameroon,CMR,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,65.613
+Cameroon,CMR,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,67.006
+Cameroon,CMR,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,67.885
+Cameroon,CMR,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,68.758
+Cameroon,CMR,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,69.623
+Cameroon,CMR,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,70.481
+Cameroon,CMR,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,73.187
+Cameroon,CMR,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,75.727
+Cameroon,CMR,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,78.096
+Cameroon,CMR,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,78.083
+Cameroon,CMR,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,78.07
+Cameroon,CMR,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,78.055
+Cameroon,CMR,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,78.034
+Cameroon,CMR,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,78.005
+Cameroon,CMR,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.974
+Cameroon,CMR,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.946
+Cameroon,CMR,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.921
+Cameroon,CMR,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.895
+Cameroon,CMR,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.863
+Cameroon,CMR,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.83
+Cameroon,CMR,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.805
+Cameroon,CMR,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.788
+Cameroon,CMR,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.777
+Cameroon,CMR,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.772
+Cameroon,CMR,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.773
+Cameroon,CMR,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,77.778
+Cameroon,CMR,2024,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.069
+Cameroon,CMR,2023,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.287
+Cameroon,CMR,2022,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.401
+Cameroon,CMR,2021,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.711
+Cameroon,CMR,2020,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.978
+Cameroon,CMR,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.053
+Cameroon,CMR,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.518
+Cameroon,CMR,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.939
+Cameroon,CMR,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.345
+Cameroon,CMR,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.786
+Cameroon,CMR,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.287
+Cameroon,CMR,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.558
+Cameroon,CMR,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,79.782
+Cameroon,CMR,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,80.96
+Cameroon,CMR,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,82.092
+Cameroon,CMR,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.274
+Cameroon,CMR,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.388
+Cameroon,CMR,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.438
+Cameroon,CMR,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.505
+Cameroon,CMR,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.57
+Cameroon,CMR,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.65
+Cameroon,CMR,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.757
+Cameroon,CMR,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.897
+Cameroon,CMR,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.055
+Cameroon,CMR,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.201
+Cameroon,CMR,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.331
+Cameroon,CMR,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.467
+Cameroon,CMR,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.631
+Cameroon,CMR,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.803
+Cameroon,CMR,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,86.939
+Cameroon,CMR,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,87.035
+Cameroon,CMR,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,87.106
+Cameroon,CMR,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,87.149
+Cameroon,CMR,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,87.16
+Cameroon,CMR,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,87.152
+Cameroon,CMR,2024,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.055
+Cameroon,CMR,2023,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.178
+Cameroon,CMR,2022,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.222
+Cameroon,CMR,2021,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.498
+Cameroon,CMR,2020,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.372
+Cameroon,CMR,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.167
+Cameroon,CMR,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.139
+Cameroon,CMR,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.099
+Cameroon,CMR,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.05
+Cameroon,CMR,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.035
+Cameroon,CMR,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.049
+Cameroon,CMR,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.269
+Cameroon,CMR,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.489
+Cameroon,CMR,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.712
+Cameroon,CMR,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.903
+Cameroon,CMR,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.416
+Cameroon,CMR,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.943
+Cameroon,CMR,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.509
+Cameroon,CMR,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.054
+Cameroon,CMR,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.607
+Cameroon,CMR,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.06
+Cameroon,CMR,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.633
+Cameroon,CMR,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.186
+Cameroon,CMR,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.695
+Cameroon,CMR,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.626
+Cameroon,CMR,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.547
+Cameroon,CMR,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.499
+Cameroon,CMR,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.496
+Cameroon,CMR,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.517
+Cameroon,CMR,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.899
+Cameroon,CMR,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.097
+Cameroon,CMR,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.292
+Cameroon,CMR,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.225
+Cameroon,CMR,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.179
+Cameroon,CMR,2024,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.099
+Cameroon,CMR,2023,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.169
+Cameroon,CMR,2022,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.206
+Cameroon,CMR,2021,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.558
+Cameroon,CMR,2020,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.468
+Cameroon,CMR,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.178
+Cameroon,CMR,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.154
+Cameroon,CMR,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.121
+Cameroon,CMR,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.08
+Cameroon,CMR,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.068
+Cameroon,CMR,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.079
+Cameroon,CMR,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.171
+Cameroon,CMR,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.261
+Cameroon,CMR,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.351
+Cameroon,CMR,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.416
+Cameroon,CMR,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.142
+Cameroon,CMR,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.878
+Cameroon,CMR,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.646
+Cameroon,CMR,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.426
+Cameroon,CMR,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.206
+Cameroon,CMR,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.119
+Cameroon,CMR,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.166
+Cameroon,CMR,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.198
+Cameroon,CMR,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.174
+Cameroon,CMR,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.386
+Cameroon,CMR,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.583
+Cameroon,CMR,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.825
+Cameroon,CMR,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.137
+Cameroon,CMR,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.495
+Cameroon,CMR,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.116
+Cameroon,CMR,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.441
+Cameroon,CMR,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.761
+Cameroon,CMR,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.65
+Cameroon,CMR,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.574
+Cameroon,CMR,2023,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,106.661
+Cameroon,CMR,2022,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.328
+Cameroon,CMR,2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.907
+Cameroon,CMR,2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,112.084
+Cameroon,CMR,2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,114.634
+Cameroon,CMR,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,117.067
+Cameroon,CMR,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,118.815
+Cameroon,CMR,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,119.352
+Cameroon,CMR,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,119.736
+Cameroon,CMR,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,120.341
+Cameroon,CMR,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,121.77
+Cameroon,CMR,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,124.626
+Cameroon,CMR,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,129.067
+Cameroon,CMR,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,127.504
+Cameroon,CMR,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,127.889
+Cameroon,CMR,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,128.656
+Cameroon,CMR,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,130.023
+Cameroon,CMR,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,132.034
+Cameroon,CMR,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,133.393
+Cameroon,CMR,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,134.967
+Cameroon,CMR,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,136.47
+Cameroon,CMR,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,136.781
+Cameroon,CMR,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,138.445
+Cameroon,CMR,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,139.918
+Cameroon,CMR,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,140.583
+Cameroon,CMR,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,139.721
+Cameroon,CMR,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,139.537
+Cameroon,CMR,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,141.471
+Cameroon,CMR,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,144.963
+Cameroon,CMR,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,147.034
+Cameroon,CMR,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,149.156
+Cameroon,CMR,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,151.097
+Cameroon,CMR,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,156.154
+Cameroon,CMR,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,159.392
+Cameroon,CMR,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,159.99
+Cameroon,CMR,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,163.074
+Cameroon,CMR,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,167.808
+Cameroon,CMR,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,172.149
+Cameroon,CMR,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,173.314
+Cameroon,CMR,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,178.236
+Cameroon,CMR,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,180.889
+Cameroon,CMR,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,173.918
+Cameroon,CMR,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,173.545
+Cameroon,CMR,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,177.476
+Cameroon,CMR,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,179.02
+Cameroon,CMR,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,180.371
+Cameroon,CMR,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,178.661
+Cameroon,CMR,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,173.764
+Cameroon,CMR,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,171.782
+Cameroon,CMR,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,178.077
+Cameroon,CMR,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,178.779
+Cameroon,CMR,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,174.767
+Cameroon,CMR,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,176.297
+Cameroon,CMR,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,173.021
+Cameroon,CMR,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,171.733
+Cameroon,CMR,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,171.05
+Cameroon,CMR,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,173.622
+Cameroon,CMR,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,176.631
+Cameroon,CMR,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,176.546
+Cameroon,CMR,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,177.16
+Cameroon,CMR,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,178.479
+Cameroon,CMR,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,176.028
+Cameroon,CMR,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,171.395
+Cameroon,CMR,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,166.907
+Cameroon,CMR,2023,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.944
+Cameroon,CMR,2022,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.634
+Cameroon,CMR,2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.297
+Cameroon,CMR,2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.976
+Cameroon,CMR,2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.825
+Cameroon,CMR,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.334
+Cameroon,CMR,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.856
+Cameroon,CMR,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.288
+Cameroon,CMR,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.658
+Cameroon,CMR,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.067
+Cameroon,CMR,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.495
+Cameroon,CMR,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.868
+Cameroon,CMR,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.039
+Cameroon,CMR,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,58.487
+Cameroon,CMR,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,57.922
+Cameroon,CMR,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,57.453
+Cameroon,CMR,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.99
+Cameroon,CMR,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.526
+Cameroon,CMR,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.045
+Cameroon,CMR,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.758
+Cameroon,CMR,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.426
+Cameroon,CMR,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.062
+Cameroon,CMR,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.724
+Cameroon,CMR,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.525
+Cameroon,CMR,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.501
+Cameroon,CMR,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.509
+Cameroon,CMR,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.697
+Cameroon,CMR,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.74
+Cameroon,CMR,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.92
+Cameroon,CMR,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.122
+Cameroon,CMR,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.482
+Cameroon,CMR,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.642
+Cameroon,CMR,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.725
+Cameroon,CMR,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.893
+Cameroon,CMR,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.901
+Cameroon,CMR,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.85
+Cameroon,CMR,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.684
+Cameroon,CMR,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.036
+Cameroon,CMR,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.994
+Cameroon,CMR,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.502
+Cameroon,CMR,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,53.966
+Cameroon,CMR,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,53.305
+Cameroon,CMR,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,52.711
+Cameroon,CMR,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,52.277
+Cameroon,CMR,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.958
+Cameroon,CMR,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.697
+Cameroon,CMR,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.486
+Cameroon,CMR,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.353
+Cameroon,CMR,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.179
+Cameroon,CMR,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.029
+Cameroon,CMR,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,50.772
+Cameroon,CMR,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,50.276
+Cameroon,CMR,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,49.689
+Cameroon,CMR,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,49.069
+Cameroon,CMR,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,48.286
+Cameroon,CMR,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,47.532
+Cameroon,CMR,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,46.77
+Cameroon,CMR,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,45.992
+Cameroon,CMR,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,45.332
+Cameroon,CMR,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,44.721
+Cameroon,CMR,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,44.19
+Cameroon,CMR,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,43.663
+Cameroon,CMR,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,42.276
+Cameroon,CMR,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,41.698
+Cameroon,CMR,2023,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.522
+Cameroon,CMR,2022,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.326
+Cameroon,CMR,2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.071
+Cameroon,CMR,2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.465
+Cameroon,CMR,2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.629
+Cameroon,CMR,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.111
+Cameroon,CMR,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.835
+Cameroon,CMR,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.351
+Cameroon,CMR,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.764
+Cameroon,CMR,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.237
+Cameroon,CMR,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.992
+Cameroon,CMR,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.49
+Cameroon,CMR,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.93
+Cameroon,CMR,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.444
+Cameroon,CMR,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.045
+Cameroon,CMR,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.771
+Cameroon,CMR,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.42
+Cameroon,CMR,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.064
+Cameroon,CMR,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.746
+Cameroon,CMR,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.382
+Cameroon,CMR,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.061
+Cameroon,CMR,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.761
+Cameroon,CMR,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.451
+Cameroon,CMR,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.13
+Cameroon,CMR,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.816
+Cameroon,CMR,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.569
+Cameroon,CMR,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.51
+Cameroon,CMR,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.652
+Cameroon,CMR,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.766
+Cameroon,CMR,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.942
+Cameroon,CMR,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.252
+Cameroon,CMR,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.45
+Cameroon,CMR,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.593
+Cameroon,CMR,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.784
+Cameroon,CMR,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.855
+Cameroon,CMR,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.844
+Cameroon,CMR,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.667
+Cameroon,CMR,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.082
+Cameroon,CMR,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.914
+Cameroon,CMR,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.255
+Cameroon,CMR,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.908
+Cameroon,CMR,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.28
+Cameroon,CMR,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,49.727
+Cameroon,CMR,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,49.406
+Cameroon,CMR,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,49.092
+Cameroon,CMR,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.919
+Cameroon,CMR,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.752
+Cameroon,CMR,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.657
+Cameroon,CMR,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.578
+Cameroon,CMR,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.414
+Cameroon,CMR,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.236
+Cameroon,CMR,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,47.937
+Cameroon,CMR,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,47.436
+Cameroon,CMR,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,46.813
+Cameroon,CMR,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,46.071
+Cameroon,CMR,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,45.22
+Cameroon,CMR,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,44.412
+Cameroon,CMR,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,43.663
+Cameroon,CMR,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,42.996
+Cameroon,CMR,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,42.448
+Cameroon,CMR,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,41.935
+Cameroon,CMR,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,41.51
+Cameroon,CMR,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,29.831
+Cameroon,CMR,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,29.445

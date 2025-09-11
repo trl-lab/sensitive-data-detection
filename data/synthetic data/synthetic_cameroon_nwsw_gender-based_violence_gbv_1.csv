@@ -1,0 +1,11 @@
+incident_id,location,report_date,admin_level,organization_on_site,population_served,facility_condition,access_constraints,incident_severity,gender_support_services,incident_reports
+1,Buea,2023-09-12,Division,UNICEF,15000,Operational,Checkpoints,High,Available,3
+2,Bamenda,2023-09-15,Subdivision,WHO,32000,Partially Operational,Roadblocks,Medium,Limited,5
+3,Kumba,2023-09-20,Sub-Division,IRC,18000,Non-Operational,Curfews,Critical,Unavailable,7
+4,Limbe,2023-09-25,Division,CARE,21000,Operational,Checkpoints,Low,Available,1
+5,Batibo,2023-09-18,Subdivision,Plan International,12000,Partially Operational,Roadblocks,High,Limited,4
+6,Douala,2023-09-22,City,ICRC,45000,Operational,Checkpoints,Medium,Available,2
+7,Kumbo,2023-09-30,Sub-Division,UN Women,25000,Operational,Curfews,Critical,Unavailable,6
+8,Tiko,2023-09-28,Division,Save the Children,30000,Non-Operational,Roadblocks,High,Limited,8
+9,Buea,2023-10-02,Division,NRC,28000,Partially Operational,Checkpoints,Medium,Available,2
+10,Ndop,2023-10-05,Subdivision,UNFPA,17000,Operational,Curfews,Low,Available,1

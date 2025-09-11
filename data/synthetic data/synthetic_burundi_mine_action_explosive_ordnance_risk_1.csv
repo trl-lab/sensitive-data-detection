@@ -1,0 +1,11 @@
+report_date,location,activity_type,organization_presence,service_coverage,operational_zones,incident_summary,access_constraints,explosive_type,control_zones,community_vulnerability
+2023-08-14,Bujumbura,Survey,MAG,High,Northern Corridor,Accident reported in residential area,Restricted access due to terrain,Landmines,Zone A,High
+2023-08-15,Gitega,Clearance,HALO Trust,Medium,Western Highlands,Unexploded ordnance found in farmland,Limited access due to weather conditions,UXO,Zone B,Medium
+2023-08-16,Ngozi,Education,NPA,Low,Southern Plains,Community workshop on risk awareness,None,Cluster Munitions,Zone C,Low
+2023-08-17,Rutana,Survey,UNMAS,High,Eastern Ridge,Multiple explosive device sightings,Permission required for entry,Improvised Explosive Devices,Zone D,High
+2023-08-18,Kayanza,Clearance,DDG,Medium,Central Plateau,Detonation during clearance operations,Security clearance required,Landmines,Zone E,Medium
+2023-08-19,Makamba,Risk Assessment,Red Cross,Low,Southern Border,Localized injuries from unexploded devices,Travel restrictions due to conflict,UXO,Zone F,High
+2023-08-20,Cibitoke,Education,ICRC,High,Northern Fringe,Increased community engagement in risk education,None,Cluster Munitions,Zone G,Low
+2023-08-21,Bururi,Clearance,FSD,Medium,Central Lowlands,New potential minefields identified,Access restricted due to wildlife,Landmines,Zone H,Medium
+2023-08-22,Ruyigi,Survey,HI,High,Eastern Border,Explosive remnants found near schools,Military permits required,UXO,Zone I,High
+2023-08-23,Muramvya,Risk Assessment,APOPO,Low,Western Foothills,Reports of injuries from landmines,Evacuation routes limited,Landmines,Zone J,Medium

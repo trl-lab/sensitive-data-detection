@@ -1,0 +1,11 @@
+facility_id,facility_name,admin_region,facility_type,organization_in_charge,service_capacity,student_enrollment,staff_count,vulnerability_index,access_constraints,incident_reports
+1,École Primaire de Bujumbura,Bujumbura Mairie,Primary School,UNICEF,500,450,15,High,Unpaved road during rainy season,Flooding in April 2023
+2,Lycée Municipal de Ngozi,Ngozi,Secondary School,World Bank,800,750,30,Medium,None,Theft incident reported in March 2023
+3,Institut Technique Kayanza,Kayanza,Vocational Training,UNESCO,300,270,10,Low,Landslide prone area,None
+4,Collège de Gitega,Gitega,Secondary School,Plan International,600,590,25,High,Access road under repair,Minor fire in January 2023
+5,École Normale Muramvya,Muramvya,Teacher Training,Save the Children,200,180,12,Medium,None,None
+6,Académie de Cibitoke,Cibitoke,Primary School,Red Cross,550,530,20,Medium,None,Minor vandalism in February 2023
+7,Université de Rumonge,Rumonge,University,UNDP,1000,950,50,Low,None,None
+8,École Communautaire Makamba,Makamba,Community School,Catholic Relief Services,400,380,18,High,Bridge out of service,None
+9,Institut Supérieur de Kirundo,Kirundo,Higher Education,ActionAid,300,290,15,Medium,None,Protest in May 2023
+10,Lycée Agricole de Ruyigi,Ruyigi,Agricultural School,FAO,450,430,16,Medium,None,None

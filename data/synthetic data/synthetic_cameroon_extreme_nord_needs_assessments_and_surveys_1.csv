@@ -1,0 +1,11 @@
+survey_id,admin_area,facility_type,household_count,sector_focus,access_constraints,vulnerability_index,incident_records,respondent_id,contact_number,aggregated_needs
+001,Extreme Nord,Health Center,150,Health,Restricted,0.78,2,R001,672345678,High
+002,Extreme Nord,School,200,Education,Open,0.65,0,R002,674123456,Medium
+003,Extreme Nord,Market,250,Food Security,Moderate,0.52,1,R003,675987654,Low
+004,Extreme Nord,Community Center,100,Protection,Restricted,0.84,3,R004,676543210,High
+005,Extreme Nord,Water Point,180,Water Sanitation,Open,0.60,0,R005,677890123,Medium
+006,Extreme Nord,Shelter,220,Non-Food Items,Restricted,0.70,4,R006,678234567,High
+007,Extreme Nord,Health Post,130,Health,Moderate,0.50,1,R007,679876543,Low
+008,Extreme Nord,Temporary Camp,300,Emergency Shelter,Restricted,0.90,5,R008,670123456,High
+009,Extreme Nord,Warehouse,170,Logistics,Open,0.55,0,R009,671234567,Medium
+010,Extreme Nord,Community Hall,140,Social Cohesion,Moderate,0.62,2,R010,672987654,Low
