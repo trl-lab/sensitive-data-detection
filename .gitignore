@@ -186,3 +186,5 @@ personal/models/
 
 # Every folder that contains 'checkpoint'
 results/unsloth/*
+
+logs/*

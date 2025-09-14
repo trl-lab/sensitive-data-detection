@@ -2,11 +2,6 @@ import os
 import torch
 import logging
 from typing import Optional
-try:
-    from unsloth import FastLanguageModel
-except ImportError:
-    print("Unsloth not installed")
-
 
 
 os.environ["TRITON_LOG_LEVEL"] = "ERROR"
@@ -32,7 +27,13 @@ class Model:
         print(f"Name model in model.py: {name}")
         if name in ["gpt-4o-mini", "gpt-4o", "o3", "o3-mini", "o4-mini", "gpt-4.1-2025-04-14"]:
             return "openai"
-        elif name.startswith("deepseek"):
+
+        try:
+            from unsloth import FastLanguageModel
+        except ImportError:
+            print("Unsloth not installed")
+
+        if name.startswith("deepseek"):
             return "deepseek"
         elif "aya" in name:
             return "aya-expanse"

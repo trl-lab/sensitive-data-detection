@@ -1,0 +1,1654 @@
+{
+    "synthetic_afghanistan_access_constraints_and_negotiation_1.csv": {
+        "metadata": {
+            "country": "afghanistan",
+            "isp_used": "default",
+            "non_pii_gpt-4o-mini": "HIGH_SENSITIVE",
+            "non_pii_gpt-4o-mini_explanation": "- Sensitivity Classification: HIGH_SENSITIVE\n- Sensitive Columns: \n  - location\n  - access_constraints\n  - incident_counts\n  - community_vulnerabilities\n  - security_reports\n  - activity_type\n\n- Cited ISP Rule(s): \n  - \"Aid-worker contact details (without consent)\" - while this specific rule does not apply directly, the combination of the columns related to location, access constraints, incident counts, community vulnerabilities, and security reports indicates a high sensitivity due to the potential risk to individuals and organizations involved in humanitarian efforts. \n  - \"Sensitive programmatic data (e.g., protection activities by location)\" - the data in the table relates to sensitive operational contexts and vulnerabilities, which aligns with this rule. \n\nThe presence of specific vulnerabilities and security reports combined with the location information elevates the sensitivity of the data to HIGH_SENSITIVE, as it could expose risks to individuals and organizations operating in these areas.",
+            "non_pii_no_isp_gpt-4o-mini": "HIGH_SENSITIVE",
+            "non_pii_no_isp_gpt-4o-mini_explanation": "- Sensitivity Classification: HIGH_SENSITIVE\n\n### Explanation:\nThe table contains several columns that could be considered sensitive due to the nature of the information they hold, particularly in the context of humanitarian work in regions with security concerns.\n\n1. **access_constraints**: This column indicates the level of access restrictions in various locations, which can directly impact the safety and operational capabilities of humanitarian organizations. If this information is disclosed, it could lead to increased risks for personnel and operations.\n\n2. **community_vulnerabilities**: This column identifies the vulnerabilities of communities, which can be exploited if accessed by malicious actors. Understanding the vulnerabilities can lead to targeted attacks or exploitation of these communities.\n\n3. **security_reports**: The content of this column includes specific security threats (e.g., \"Risk of Improvised Explosive Devices (IEDs)\", \"Frequent Armed Clashes\", \"Increased Kidnapping Reports\"). Disclosing such sensitive security information can jeopardize the safety of individuals and organizations operating in these areas.\n\nThe combination of these columns, particularly when they relate to specific locations and incidents, raises the overall sensitivity of the table to HIGH_SENSITIVE. The potential for serious harm or negative impacts to affected people and humanitarian actors is significant, especially in conflict-affected regions."
+        },
+        "columns": {
+            "admin_level": {
+                "records": [
+                    "Province",
+                    "Province",
+                    "District",
+                    "District",
+                    "Province",
+                    "District",
+                    "Province",
+                    "District",
+                    "Province",
+                    "District"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "location": {
+                "records": [
+                    "Kabul",
+                    "Herat",
+                    "Kandahar",
+                    "Mazar-i-Sharif",
+                    "Nangarhar",
+                    "Kunduz",
+                    "Bamyan",
+                    "Ghazni",
+                    "Badakhshan",
+                    "Helmand"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-09-15",
+                    "2023-09-16",
+                    "2023-09-17",
+                    "2023-09-18",
+                    "2023-09-19",
+                    "2023-09-20",
+                    "2023-09-21",
+                    "2023-09-22",
+                    "2023-09-23",
+                    "2023-09-24"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "population_total": {
+                "records": [
+                    4823000,
+                    1898000,
+                    614600,
+                    500500,
+                    1538000,
+                    374300,
+                    478000,
+                    697000,
+                    1025000,
+                    1097500
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "service_coverage": {
+                "records": [
+                    "78%",
+                    "65%",
+                    "54%",
+                    "70%",
+                    "50%",
+                    "60%",
+                    "85%",
+                    "58%",
+                    "67%",
+                    "45%"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "High",
+                    "Moderate",
+                    "Severe",
+                    "Low",
+                    "Very High",
+                    "High",
+                    "Low",
+                    "Severe",
+                    "Moderate",
+                    "Very High"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "incident_counts": {
+                "records": [
+                    12,
+                    8,
+                    20,
+                    3,
+                    15,
+                    10,
+                    1,
+                    18,
+                    7,
+                    25
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "community_vulnerabilities": {
+                "records": [
+                    "Medium",
+                    "High",
+                    "Very High",
+                    "Low",
+                    "High",
+                    "Medium",
+                    "Low",
+                    "Very High",
+                    "Medium",
+                    "Very High"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "security_reports": {
+                "records": [
+                    "Risk of Improvised Explosive Devices (IEDs)",
+                    "Frequent Armed Clashes",
+                    "Increased Kidnapping Reports",
+                    "Stable Environment",
+                    "Heightened Security Patrols",
+                    "Checkpoints Restricting Movement",
+                    "No Recent Incidents",
+                    "Frequent Roadblocks",
+                    "Occasional Armed Skirmishes",
+                    "Regular Drone Surveillance"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "activity_type": {
+                "records": [
+                    "Education",
+                    "Health",
+                    "Food Security",
+                    "Infrastructure",
+                    "Shelter",
+                    "Agriculture",
+                    "Education",
+                    "Health",
+                    "Shelter",
+                    "Food Security"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "organization_presence": {
+                "records": [
+                    "UNICEF",
+                    "WHO",
+                    "WFP",
+                    "UNDP",
+                    "UNHCR",
+                    "FAO",
+                    "UNICEF",
+                    "WHO",
+                    "UNHCR",
+                    "WFP"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_niger_coordination_and_common_services_1.csv": {
+        "metadata": {
+            "country": "niger"
+        },
+        "columns": {
+            "report_date": {
+                "records": [
+                    "2023-01-15",
+                    "2023-02-10",
+                    "2023-03-05",
+                    "2023-04-22",
+                    "2023-05-18",
+                    "2023-06-30",
+                    "2023-07-25",
+                    "2023-08-15",
+                    "2023-09-10",
+                    "2023-10-01"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "location": {
+                "records": [
+                    "Niamey",
+                    "Maradi",
+                    "Zinder",
+                    "Tillab\u00e9ri",
+                    "Diffa",
+                    "Agadez",
+                    "Dogondoutchi",
+                    "Dosso",
+                    "Tahoua",
+                    "Arlit"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "access_level": {
+                "records": [
+                    "High",
+                    "Medium",
+                    "Low",
+                    "High",
+                    "Medium",
+                    "Low",
+                    "Medium",
+                    "High",
+                    "Low",
+                    "Medium"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "service_coverage": {
+                "records": [
+                    "80%",
+                    "70%",
+                    "60%",
+                    "85%",
+                    "75%",
+                    "50%",
+                    "65%",
+                    "90%",
+                    "55%",
+                    "70%"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "population_total": {
+                "records": [
+                    120000,
+                    95000,
+                    110000,
+                    130000,
+                    80000,
+                    95000,
+                    78000,
+                    105000,
+                    120000,
+                    85000
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "facility_type": {
+                "records": [
+                    "Health Center",
+                    "Coordination Hub",
+                    "Community Center",
+                    "Field Office",
+                    "Temporary Shelter",
+                    "Check Point",
+                    "Mobile Unit",
+                    "Coordination Center",
+                    "Warehouse",
+                    "NGO Office"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "activity_type": {
+                "records": [
+                    "Medical Aid",
+                    "Logistical Support",
+                    "Information Dissemination",
+                    "Resource Distribution",
+                    "Refugee Assistance",
+                    "Security Monitoring",
+                    "Health Outreach",
+                    "Emergency Response",
+                    "Supply Storage",
+                    "Capacity Building"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "region_name": {
+                "records": [
+                    "Niamey",
+                    "Maradi",
+                    "Zinder",
+                    "Tillab\u00e9ri",
+                    "Diffa",
+                    "Agadez",
+                    "Dosso",
+                    "Dosso",
+                    "Tahoua",
+                    "Agadez"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "Security checkpoints",
+                    "Restricted areas",
+                    "Impassable roads",
+                    "Military presence",
+                    "Curfews in effect",
+                    "Permit requirements",
+                    "Seasonal flooding",
+                    "Limited communications infrastructure",
+                    "Threat of armed groups",
+                    "Remote access difficulties"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "group_vulnerability_map": {
+                "records": [
+                    "High risk of food insecurity",
+                    "High malnutrition rates",
+                    "Vulnerable child population",
+                    "Severe drought impact",
+                    "Conflict displacement",
+                    "Cross-border migration",
+                    "High disease outbreak risk",
+                    "Lack of medical supplies",
+                    "Isolated elderly population",
+                    "Environmental hazards"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "incident_reports": {
+                "records": [
+                    5,
+                    2,
+                    3,
+                    7,
+                    4,
+                    6,
+                    1,
+                    8,
+                    0,
+                    9
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_occupied_palestinian_territory_humanitarian_access_1": {
+        "metadata": {
+            "country": "palestine"
+        },
+        "columns": {
+            "region_name": {
+                "records": [
+                    "Hebron",
+                    "Gaza City",
+                    "Nablus",
+                    "Ramallah",
+                    "Jenin",
+                    "Rafah",
+                    "Bethlehem",
+                    "Jericho",
+                    "Qalqilya",
+                    "Tulkarm"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "organization_presence": {
+                "records": [
+                    "UNRWA",
+                    "ICRC",
+                    "MSF",
+                    "UNICEF",
+                    "WFP",
+                    "WHO",
+                    "Oxfam",
+                    "Save the Children",
+                    "CARE International",
+                    "UNDP"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "facility_type": {
+                "records": [
+                    "Health Clinic",
+                    "Hospital",
+                    "Mobile Clinic",
+                    "Child Protection Center",
+                    "Food Distribution Center",
+                    "Primary Health Center",
+                    "Water Supply Point",
+                    "Education Facility",
+                    "Community Center",
+                    "Job Training Center"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "population_total": {
+                "records": [
+                    25000,
+                    500000,
+                    120000,
+                    45000,
+                    80000,
+                    60000,
+                    70000,
+                    20000,
+                    55000,
+                    30000
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "Checkpoints",
+                    "Restricted Movement",
+                    "Barrier Walls",
+                    "Curfews",
+                    "Permit Requirements",
+                    "Access Denied",
+                    "Checkpoints",
+                    "Barrier Walls",
+                    "Restricted Movement",
+                    "Curfews"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "incident_counts": {
+                "records": [
+                    5,
+                    15,
+                    3,
+                    2,
+                    4,
+                    7,
+                    1,
+                    0,
+                    3,
+                    2
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "area_control": {
+                "records": [
+                    "Zone A",
+                    "Zone C",
+                    "Zone B",
+                    "Zone A",
+                    "Zone B",
+                    "Zone C",
+                    "Zone A",
+                    "Zone B",
+                    "Zone C",
+                    "Zone A"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "field_plans": {
+                "records": [
+                    "Yes",
+                    "Planned",
+                    "Yes",
+                    "Yes",
+                    "Planned",
+                    "No",
+                    "Yes",
+                    "Planned",
+                    "Yes",
+                    "No"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "admin_level": {
+                "records": [
+                    "Level 1",
+                    "Level 2",
+                    "Level 1",
+                    "Level 2",
+                    "Level 1",
+                    "Level 3",
+                    "Level 1",
+                    "Level 2",
+                    "Level 3",
+                    "Level 1"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-10-01",
+                    "2023-10-03",
+                    "2023-09-28",
+                    "2023-10-05",
+                    "2023-09-30",
+                    "2023-10-02",
+                    "2023-09-29",
+                    "2023-10-04",
+                    "2023-10-06",
+                    "2023-09-27"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "service_coverage": {
+                "records": [
+                    "High",
+                    "Medium",
+                    "Low",
+                    "High",
+                    "Medium",
+                    "Low",
+                    "High",
+                    "Medium",
+                    "High",
+                    "Low"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_somalia_security_and_safety_1": {
+        "metadata": {
+            "country": "somalia"
+        },
+        "columns": {
+            "sector_name": {
+                "records": [
+                    "Health",
+                    "Education",
+                    "Food Security",
+                    "Water and Sanitation",
+                    "Health",
+                    "Shelter",
+                    "Protection",
+                    "Nutrition",
+                    "Livelihoods",
+                    "Education"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "service_coverage": {
+                "records": [
+                    "High",
+                    "Moderate",
+                    "Low",
+                    "High",
+                    "Moderate",
+                    "Low",
+                    "High",
+                    "Moderate",
+                    "Low",
+                    "High"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "region_name": {
+                "records": [
+                    "Banadir",
+                    "Bay",
+                    "Lower Shabelle",
+                    "Bari",
+                    "Mudug",
+                    "Jubaland",
+                    "Hiraan",
+                    "Galgaduud",
+                    "Middle Juba",
+                    "Nugal"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "facility_type": {
+                "records": [
+                    "Clinic",
+                    "School",
+                    "Distribution Center",
+                    "Water Point",
+                    "Hospital",
+                    "Temporary Shelter",
+                    "Safe House",
+                    "Feeding Center",
+                    "Training Center",
+                    "School"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "admin_level": {
+                "records": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4,
+                    3,
+                    2,
+                    3,
+                    4,
+                    2
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "incident_reports": {
+                "records": [
+                    5,
+                    2,
+                    8,
+                    1,
+                    3,
+                    7,
+                    2,
+                    4,
+                    6,
+                    0
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "control_zone_status": {
+                "records": [
+                    "Restricted",
+                    "Unstable",
+                    "Restricted",
+                    "Stable",
+                    "Unstable",
+                    "Restricted",
+                    "Stable",
+                    "Unstable",
+                    "Restricted",
+                    "Stable"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "Limited Access",
+                    "Partial Access",
+                    "No Access",
+                    "Full Access",
+                    "Partial Access",
+                    "Limited Access",
+                    "Full Access",
+                    "Partial Access",
+                    "No Access",
+                    "Full Access"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "security_incidents": {
+                "records": [
+                    3,
+                    1,
+                    4,
+                    0,
+                    2,
+                    5,
+                    1,
+                    2,
+                    4,
+                    0
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "organization_presence": {
+                "records": [
+                    "Yes",
+                    "Yes",
+                    "No",
+                    "Yes",
+                    "Yes",
+                    "No",
+                    "Yes",
+                    "Yes",
+                    "No",
+                    "Yes"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-09-15",
+                    "2023-09-16",
+                    "2023-09-12",
+                    "2023-09-18",
+                    "2023-09-20",
+                    "2023-09-14",
+                    "2023-09-17",
+                    "2023-09-13",
+                    "2023-09-19",
+                    "2023-09-21"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_sudan_monitoring_and_evaluation_m&e_1": {
+        "metadata": {
+            "country": "sudan"
+        },
+        "columns": {
+            "project_id": {
+                "records": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "sector_focus": {
+                "records": [
+                    "Health",
+                    "Education",
+                    "Food Security",
+                    "Water & Sanitation",
+                    "Protection",
+                    "Livelihoods",
+                    "Health",
+                    "Nutrition",
+                    "Education",
+                    "Protection"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "organization": {
+                "records": [
+                    "Save the Children",
+                    "UNICEF",
+                    "WFP",
+                    "Oxfam",
+                    "UNHCR",
+                    "FAO",
+                    "WHO",
+                    "CARE",
+                    "Plan International",
+                    "IRC"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "region": {
+                "records": [
+                    "Darfur",
+                    "Khartoum",
+                    "Kassala",
+                    "Blue Nile",
+                    "Al Gezira",
+                    "South Kordofan",
+                    "White Nile",
+                    "Gedarif",
+                    "Red Sea",
+                    "North Kordofan"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "activity_description": {
+                "records": [
+                    "Maternal Health Clinics",
+                    "School Rehabilitation",
+                    "Food Distribution",
+                    "Well Construction",
+                    "IDP Shelter Support",
+                    "Agricultural Training",
+                    "Vaccination Campaign",
+                    "Nutritional Assessments",
+                    "Teacher Training Workshops",
+                    "Child Protection Programs"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "total_population": {
+                "records": [
+                    12000,
+                    5000,
+                    3500,
+                    2000,
+                    8000,
+                    4500,
+                    10000,
+                    6000,
+                    3000,
+                    7000
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "admin_level": {
+                "records": [
+                    2,
+                    1,
+                    2,
+                    3,
+                    1,
+                    2,
+                    3,
+                    2,
+                    1,
+                    3
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "community_challenges": {
+                "records": [
+                    "Lack of medical supplies",
+                    "High dropout rates",
+                    "Malnutrition",
+                    "Contaminated water sources",
+                    "Gender-based violence",
+                    "Crop failure due to pests",
+                    "Low vaccination coverage",
+                    "High anemia rates",
+                    "Inadequate teaching materials",
+                    "Child labor"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "incident_observations": {
+                "records": [
+                    "Recent clinic theft",
+                    "Teacher strike",
+                    "Food thefts",
+                    "Pipeline vandalism",
+                    "Assaults reported",
+                    "Equipment theft",
+                    "False rumor spread",
+                    "Supply shortages",
+                    "Facility damage",
+                    "Abductions"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "control_status": {
+                "records": [
+                    "Government",
+                    "Government",
+                    "Local militia",
+                    "Community leaders",
+                    "Humanitarian control",
+                    "Local authorities",
+                    "Government",
+                    "NGO coalition",
+                    "Local council",
+                    "Community watch"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-08-15",
+                    "2023-09-05",
+                    "2023-07-21",
+                    "2023-06-30",
+                    "2023-10-01",
+                    "2023-05-12",
+                    "2023-09-15",
+                    "2023-08-22",
+                    "2023-07-29",
+                    "2023-09-10"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "real_time_access_issues": {
+                "records": [
+                    "Transport delays due to roadblocks",
+                    "Limited internet connectivity",
+                    "Disrupted supply chains",
+                    "Water scarcity",
+                    "Restricted movement in camps",
+                    "Seasonal flooding",
+                    "Cold chain disruptions",
+                    "Inaccessibility of remote areas",
+                    "Periodic school closures",
+                    "Lack of safe spaces"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_syria_access_constraints_and_negotiation_1": {
+        "metadata": {
+            "country": "syria"
+        },
+        "columns": {
+            "report_date": {
+                "records": [
+                    "2023-09-15",
+                    "2023-09-16",
+                    "2023-09-17",
+                    "2023-09-18",
+                    "2023-09-19",
+                    "2023-09-20",
+                    "2023-09-21",
+                    "2023-09-22",
+                    "2023-09-23",
+                    "2023-09-24"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "region_name": {
+                "records": [
+                    "Aleppo",
+                    "Damascus",
+                    "Homs",
+                    "Idlib",
+                    "Latakia",
+                    "Hama",
+                    "Raqqa",
+                    "Daraa",
+                    "Deir ez-Zor",
+                    "Hasakah"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "admin_level": {
+                "records": [
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate",
+                    "Governorate"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "organization_presence": {
+                "records": [
+                    "Yes",
+                    "No",
+                    "Yes",
+                    "Yes",
+                    "No",
+                    "Yes",
+                    "Yes",
+                    "No",
+                    "Yes",
+                    "Yes"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "activity_type": {
+                "records": [
+                    "Healthcare",
+                    "Community Support",
+                    "Education",
+                    "Food Distribution",
+                    "Shelter",
+                    "Protection",
+                    "Water Supply",
+                    "Livelihood Support",
+                    "Nutrition",
+                    "Logistics"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "service_coverage": {
+                "records": [
+                    "Partial",
+                    "Full",
+                    "Reduced",
+                    "Partial",
+                    "Full",
+                    "Reduced",
+                    "Partial",
+                    "Full",
+                    "Partial",
+                    "Reduced"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "area_control": {
+                "records": [
+                    "Controlled by Non-state armed groups",
+                    "Government control",
+                    "Disputed control",
+                    "Controlled by Non-state armed groups",
+                    "Government control",
+                    "Disputed control",
+                    "Controlled by Non-state armed groups",
+                    "Government control",
+                    "Disputed control",
+                    "Controlled by Non-state armed groups"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "real_time_access_data": {
+                "records": [
+                    "Limited access due to checkpoints",
+                    "Unrestricted access",
+                    "Access limited by ongoing negotiations",
+                    "Access subject to daily negotiation",
+                    "Unrestricted access",
+                    "Access restricted",
+                    "Access requires coordination",
+                    "Unrestricted access",
+                    "Limited access due to negotiations",
+                    "Access negotiated weekly"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "conflict_zone_data": {
+                "records": [
+                    "High tension area",
+                    "Safe zone",
+                    "Intermittent clashes",
+                    "Active conflict zone",
+                    "Safe zone",
+                    "Potential conflict area",
+                    "Volatile region",
+                    "Stable area",
+                    "High-risk area",
+                    "Active engagement zone"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "Frequent roadblocks",
+                    "Occasional curfews",
+                    "Checkpoint delays",
+                    "Military presence",
+                    "Minimal constraints",
+                    "Frequent security checks",
+                    "Security incidents",
+                    "Roadblock alerts",
+                    "Curfew imposition",
+                    "Supply chain disruptions"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "staff_numbers": {
+                "records": [
+                    25,
+                    12,
+                    18,
+                    30,
+                    8,
+                    20,
+                    15,
+                    10,
+                    22,
+                    17
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_ukraine_food_security_and_nutrition_1": {
+        "metadata": {
+            "country": "ukraine"
+        },
+        "columns": {
+            "admin_level": {
+                "records": [
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast",
+                    "Oblast"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "location": {
+                "records": [
+                    "Kyiv",
+                    "Lviv",
+                    "Kharkiv",
+                    "Dnipro",
+                    "Odesa",
+                    "Donetsk",
+                    "Luhansk",
+                    "Kherson",
+                    "Zaporizhzhia",
+                    "Vinnytsia"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-10-01",
+                    "2023-10-02",
+                    "2023-10-03",
+                    "2023-10-04",
+                    "2023-10-05",
+                    "2023-10-06",
+                    "2023-10-07",
+                    "2023-10-08",
+                    "2023-10-09",
+                    "2023-10-10"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "organization_presence": {
+                "records": [
+                    "UNICEF",
+                    "World Food Programme",
+                    "Red Cross",
+                    "Save the Children",
+                    "FAO",
+                    "UNHCR",
+                    "WHO",
+                    "CARE",
+                    "IFRC",
+                    "Action Against Hunger"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "sector_name": {
+                "records": [
+                    "Nutrition",
+                    "Food Security",
+                    "Emergency Response",
+                    "Child Nutrition",
+                    "Agriculture Support",
+                    "Humanitarian Aid",
+                    "Health Services",
+                    "Women Support",
+                    "Shelter Support",
+                    "Food Distribution"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "population_total": {
+                "records": [
+                    2780000,
+                    720000,
+                    1445000,
+                    1000000,
+                    1015000,
+                    430000,
+                    530000,
+                    290000,
+                    750000,
+                    370000
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "High Risk",
+                    "Moderate Risk",
+                    "Restricted",
+                    "High Risk",
+                    "Low Risk",
+                    "Severe",
+                    "Restricted",
+                    "High Risk",
+                    "Moderate Risk",
+                    "Low Risk"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "sensitive_area": {
+                "records": [
+                    "Zone A",
+                    "Zone B",
+                    "Zone C",
+                    "Zone D",
+                    "Zone E",
+                    "Zone F",
+                    "Zone G",
+                    "Zone H",
+                    "Zone I",
+                    "Zone J"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "incident_reports": {
+                "records": [
+                    5,
+                    2,
+                    8,
+                    3,
+                    0,
+                    10,
+                    7,
+                    4,
+                    6,
+                    1
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "food_availability": {
+                "records": [
+                    "Stable",
+                    "Fluctuating",
+                    "Low",
+                    "Stable",
+                    "Stable",
+                    "Unstable",
+                    "Low",
+                    "Fluctuating",
+                    "Stable",
+                    "Stable"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "displacement_patterns": {
+                "records": [
+                    "Route 1",
+                    "Route 3",
+                    "Route 2",
+                    "Route 4",
+                    "Route 6",
+                    "Route 5",
+                    "Route 7",
+                    "Route 8",
+                    "Route 9",
+                    "Route 10"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_venezuela_early_recovery_and_livelihoods_1": {
+        "metadata": {
+            "country": "venezuela"
+        },
+        "columns": {
+            "organization_presence": {
+                "records": [
+                    "NGO_Amazonas",
+                    "UNICEF_Bolivar",
+                    "RedCross_Caracas",
+                    "WHO_Miranda",
+                    "SaveTheChildren_Zulia",
+                    "CARE_Tachira",
+                    "UNHCR_Falcon",
+                    "WFP_Lara",
+                    "IRC_Merida",
+                    "IOM_Trujillo"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "region_name": {
+                "records": [
+                    "Amazonas",
+                    "Bolivar",
+                    "Caracas",
+                    "Miranda",
+                    "Zulia",
+                    "Tachira",
+                    "Falcon",
+                    "Lara",
+                    "Merida",
+                    "Trujillo"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "population_total": {
+                "records": [
+                    15000,
+                    45000,
+                    200000,
+                    75000,
+                    125000,
+                    60000,
+                    30000,
+                    90000,
+                    50000,
+                    35000
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "facility_type": {
+                "records": [
+                    "Medical Center",
+                    "Education Facility",
+                    "Distribution Center",
+                    "Health Clinic",
+                    "Child Care Center",
+                    "Agricultural Support",
+                    "Shelter",
+                    "Food Distribution",
+                    "Water Supply",
+                    "Migration Office"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "service_coverage": {
+                "records": [
+                    "High",
+                    "Medium",
+                    "High",
+                    "Low",
+                    "Medium",
+                    "Medium",
+                    "High",
+                    "Medium",
+                    "Low",
+                    "High"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "movement_tracking": {
+                "records": [
+                    "Stable",
+                    "Increasing",
+                    "Fluctuating",
+                    "Stable",
+                    "Decreasing",
+                    "Stable",
+                    "Increasing",
+                    "Fluctuating",
+                    "Stable",
+                    "Increasing"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "control_zone_status": {
+                "records": [
+                    "Zone A",
+                    "Zone B",
+                    "Zone C",
+                    "Zone D",
+                    "Zone E",
+                    "Zone F",
+                    "Zone G",
+                    "Zone H",
+                    "Zone I",
+                    "Zone J"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "infrastructure_functionality": {
+                "records": [
+                    "Operational",
+                    "Operational",
+                    "Non-Operational",
+                    "Operational",
+                    "Partially Operational",
+                    "Operational",
+                    "Operational",
+                    "Operational",
+                    "Operational",
+                    "Operational"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "Restricted Access",
+                    "Partial Access",
+                    "No Access",
+                    "Restricted Access",
+                    "Partial Access",
+                    "Restricted Access",
+                    "No Access",
+                    "Partial Access",
+                    "Restricted Access",
+                    "No Access"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-09-15",
+                    "2023-09-18",
+                    "2023-09-20",
+                    "2023-09-22",
+                    "2023-09-25",
+                    "2023-09-27",
+                    "2023-09-28",
+                    "2023-09-29",
+                    "2023-10-01",
+                    "2023-10-03"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "admin_level": {
+                "records": [
+                    "Level 2",
+                    "Level 3",
+                    "Level 1",
+                    "Level 2",
+                    "Level 3",
+                    "Level 3",
+                    "Level 2",
+                    "Level 2",
+                    "Level 3",
+                    "Level 2"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            }
+        }
+    },
+    "synthetic_yemen_child_protection_1.csv": {
+        "metadata": {
+            "country": "yemen"
+        },
+        "columns": {
+            "region_name": {
+                "records": [
+                    "Aden",
+                    "Sana'a",
+                    "Taiz",
+                    "Hodeidah",
+                    "Ibb",
+                    "Dhamar",
+                    "Al Hudaydah",
+                    "Marib",
+                    "Lahij",
+                    "Al Jawf"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "facility_type": {
+                "records": [
+                    "Child Safe Space",
+                    "School",
+                    "Health Clinic",
+                    "Community Center",
+                    "Orphanage",
+                    "Youth Center",
+                    "Food Distribution Center",
+                    "Emergency Shelter",
+                    "Family Support Hub",
+                    "Legal Aid Center"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "organization_presence": {
+                "records": [
+                    "UNICEF",
+                    "Save the Children",
+                    "WHO",
+                    "CARE International",
+                    "Red Cross",
+                    "UNHCR",
+                    "WFP",
+                    "IRC",
+                    "OXFAM",
+                    "NRC"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "response_indicator": {
+                "records": [
+                    "Active",
+                    "Partially Active",
+                    "Active",
+                    "Active",
+                    "Active",
+                    "Inactive",
+                    "Partially Active",
+                    "Active",
+                    "Active",
+                    "Partially Active"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            },
+            "access_constraints": {
+                "records": [
+                    "Checkpoints on routes",
+                    "Curfews in evenings",
+                    "Limited fuel supply",
+                    "Security clearance needed",
+                    "Restricted area permits",
+                    "Conflict zones",
+                    "Supply chain disruptions",
+                    "Intermittent road closures",
+                    "Restricted movement",
+                    "Communication blackouts"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "staff_numbers": {
+                "records": [
+                    15,
+                    20,
+                    10,
+                    12,
+                    18,
+                    5,
+                    25,
+                    30,
+                    22,
+                    8
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "facility_name": {
+                "records": [
+                    "Al-Salam Center",
+                    "Future Academy",
+                    "Taiz Health Center",
+                    "Hope Community Center",
+                    "Children's Home",
+                    "Dream Youth Hub",
+                    "Al Hudaydah Depot",
+                    "Shelter of Hope",
+                    "Lahij Family Center",
+                    "Justice for All"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "SEVERE_SENSITIVE"
+            },
+            "law_violation_records": {
+                "records": [
+                    5,
+                    3,
+                    2,
+                    1,
+                    0,
+                    4,
+                    7,
+                    6,
+                    8,
+                    2
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "MEDIUM_SENSITIVE"
+            },
+            "admin_level": {
+                "records": [
+                    "Governorate",
+                    "Governorate",
+                    "District",
+                    "District",
+                    "District",
+                    "District",
+                    "District",
+                    "Governorate",
+                    "Governorate",
+                    "District"
+                ],
+                "non_pii": "SENSITIVE",
+                "non_pii_sensitivity_level": "HIGH_SENSITIVE"
+            },
+            "report_date": {
+                "records": [
+                    "2023-09-15",
+                    "2023-09-18",
+                    "2023-09-20",
+                    "2023-09-22",
+                    "2023-09-25",
+                    "2023-09-28",
+                    "2023-10-01",
+                    "2023-10-03",
+                    "2023-10-05",
+                    "2023-10-07"
+                ],
+                "non_pii": "NON_SENSITIVE",
+                "non_pii_sensitivity_level": "NON_SENSITIVE"
+            }
+        }
+    }
+}
