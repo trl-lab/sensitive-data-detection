@@ -1,0 +1,11 @@
+operation_id,activity_description,sector,province,access_status,distribution_location,security_incidents,vulnerable_groups,humanitarian_actors,field_contact,coordination_meeting_date,metadata_source
+101,Food distribution to IDPs,Nutrition,North Kivu,Partial,02.536, 28.842,3 incidents in last month,Women and children,NGO A,John Doe,2023-08-15,ReliefWeb
+102,Medical support to remote villages,Health,South Kivu,Restricted,02.504, 28.841,No recent incidents,People with disabilities,NGO B,Jane Smith,2023-08-20,Humanitarian Data Exchange
+103,Rehabilitation of water points,WASH,Ituri,Open,01.554, 30.233,1 incident in last week,Elderly,UNICEF,Paul Adams,2023-09-10,OCHA
+104,Distribution of education materials,Education,Tshopo,Full,00.512, 25.226,2 incidents in last month,Youth,UNHCR,Susan Lee,2023-09-05,UNICEF report
+105,Support for agricultural cooperatives,Agriculture,Kasai,Partial,-5.812, 22.637,No recent incidents,Small-scale farmers,FAO,Michael Brown,2023-08-25,FAO
+106,Construction of temporary shelters,Shelter,Maniema,Restricted,-2.916, 25.915,4 incidents in last month,Displaced families,IFRC,Emily Clark,2023-09-18,IFRC
+107,Psychosocial support services,Protection,Haut-Uele,Open,03.606, 26.625,No recent incidents,Trauma survivors,UNFPA,Chris Taylor,2023-09-12,Protection Cluster
+108,Distribution of non-food items,NFI,Katanga,Partial,-6.130, 23.594,1 incident in last week,Low-income households,NGO C,Patricia Green,2023-08-30,NGO Reports
+109,Training for local health workers,Capacity Building,Lomami,Full,-4.590, 23.443,No recent incidents,Community health workers,WHO,Andrew Wilson,2023-09-01,WHO Bulletin
+110,Monitoring of human rights abuses,Rights Monitoring,Equateur,Restricted,00.035, 18.260,5 incidents in last month,Ethnic minorities,Amnesty International,Laura White,2023-08-22,Amnesty International Database

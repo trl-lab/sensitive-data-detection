@@ -1,0 +1,11 @@
+report_id,location_district,date_of_incident,gbv_case_type,affected_population,service_accessibility,vulnerability_factor,survivor_age,incident_description,reporting_agency,confidential_notes
+001,Maputo,2023-05-12,Domestic Violence,45,Medium,Single Mother,34,Assault by partner,UNHCR,Survivor fears retaliation
+002,Beira,2023-04-17,Sexual Assault,30,High,Disabled,27,Assault by stranger,Save the Children,Needs immediate relocation
+003,Nampula,2023-03-30,Child Marriage,60,Low,Child-headed Household,15,Forced marriage arrangement,UNICEF,Family pressuring survivor
+004,Tete,2023-02-25,Human Trafficking,25,High,Orphan,22,Abduction for labor,World Vision,Survivor returned to family
+005,Quelimane,2023-06-05,Emotional Abuse,55,Medium,Displaced,40,Verbal threats,Red Cross,Survivor requires counseling
+006,Xai-Xai,2023-07-15,Physical Assault,38,Low,Minority Group,29,Beating by family member,CARE International,Perpetrator is in custody
+007,Pemba,2023-08-02,Sexual Exploitation,20,High,Refugee,19,Coercion by employer,IOM,Survivor lacks legal support
+008,Lichinga,2023-01-10,Forced Labor,18,Medium,LGBTQ+,24,Forced into unpaid work,Plan International,Survivor demands anonymity
+009,Chimoio,2023-09-27,Stalking,40,Low,Internally Displaced,31,Repeated harassment,IRC,Survivor considering legal action
+010,Inhambane,2023-10-14,Gender Discrimination,50,Medium,Elderly,56,Denied services due to gender,UN Women,Survivor feels isolated

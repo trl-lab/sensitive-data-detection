@@ -1,0 +1,67 @@
+{
+    "default": {
+      "country": "default",
+      "sensitivity_rules": {
+      "LOW/NON_SENSITIVE": {
+        "description": "Data that can be shared publicly or within coordination structures without risk of harm to individuals or operations.",
+        "data and information type": [
+          "Humanitarian Needs Overview (HNO) and Humanitarian Response Plan (HRP) data",
+          "Common Operational Datasets (CODs)",
+          "3W/4W/5W data at administrative levels 1 or 2 (national, regional)",
+          "Situation reports and snapshots",
+          "Aggregated assessment results at ADM2 or higher",
+          "Generic contact details (organization-level)",
+          "Facility location data (e.g., schools, health centers) with consent",
+          "General population and IDP statistics at state/district level"
+        ]
+      },
+      "MODERATE_SENSITIVE": {
+        "description": "Data that may cause limited risk if disclosed, and may require contextual approval before sharing.",
+        "data and information type": [
+          "Assessment and survey data aggregated at ADM2 or ADM3",
+          "Disaggregated data (e.g., by age, gender) without personal identifiers",
+          "Access constraints data aggregated to district or county level",
+          "Collective site data without individual-level details",
+          "Public facility data with increased geographic specificity",
+          "Security incident reports aggregated at ADM2"
+        ]
+      },
+      "HIGH_SENSITIVE": {
+        "description": "Data that could cause significant harm to individuals or agencies if disclosed. Requires prior approval and strong protection mechanisms.",
+        "data and information type": [
+          "Aid-worker contact details (without consent)",
+          "Survey or monitoring data at the community or household level",
+          "Detailed access constraints or operational presence by location",
+          "Sensitive programmatic data (e.g., protection activities by location)",
+          "Health and education facility data with exact coordinates"
+        ]
+      },
+      "SEVERE_SENSITIVE": {
+        "description": "Highly sensitive data that, if disclosed, could lead to serious harm or legal consequences. Sharing is highly restricted.",
+        "data and information type": [
+          "Personal data of beneficiaries (e.g., names, biometric data, patient records)",
+          "Individual survey responses and household-level datasets",
+          "SEA/GBV/PSEA case data or complaint records",
+          "Security incident logs with identifiable data",
+          "Location and identity of displaced individuals or vulnerable groups",
+          "Raw data from feedback or complaints mechanisms"
+        ]
+      }
+    },
+      "general_rules": {
+        "data_sharing": [
+          "Data should only be shared on a need-to-know basis.",
+          "Sensitive data must be anonymized where possible before sharing.",
+          "Consent must be obtained when sharing personal or identifiable data.",
+          "Use Data Sharing Agreements (DSAs) when applicable.",
+          "Ensure data recipients understand sensitivity levels and handling rules."
+        ],
+        "data_protection": [
+          "Apply the principle of data minimization: only collect and share what is necessary.",
+          "Secure storage and transfer methods must be used for sensitive data.",
+          "Regularly review who has access to shared datasets.",
+          "Comply with applicable data protection and privacy regulations."
+        ]
+      }
+    }
+}

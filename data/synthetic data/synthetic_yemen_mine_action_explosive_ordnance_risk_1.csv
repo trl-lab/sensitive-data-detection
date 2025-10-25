@@ -1,0 +1,11 @@
+activity_type,region_id,population_impact,response_efficiency,safety_zone,facility_contact,displacement_path,assessment_risk,operational_area,site_coordinates,metadata_timestamp
+Mine Clearance,AD01,2500,0.85,Zone A,Mohammed Al-Yemeni,Route 5,High,Area 3,14.4824N, 45.9132E,2023-10-01T08:00:00Z
+Risk Education,AD02,1500,0.90,Zone B,Fatima Al-Hadrami,Route 2,Moderate,Area 1,14.4821N, 45.9125E,2023-10-01T10:00:00Z
+Explosive Disposal,AD03,3200,0.78,Zone C,Ali Al-Mukalla,Route 4,High,Area 7,14.4827N, 45.9140E,2023-10-01T12:00:00Z
+Mine Detection,AD04,1800,0.82,Zone D,Sara Al-Mahra,Route 1,Low,Area 5,14.4830N, 45.9155E,2023-10-01T14:00:00Z
+Risk Assessment,AD05,2300,0.88,Zone E,Ayyub Al-Tawahi,Route 3,Moderate,Area 2,14.4833N, 45.9160E,2023-10-01T16:00:00Z
+Clearance Verification,AD06,2900,0.75,Zone F,Nour Al-Rimi,Route 6,High,Area 4,14.4836N, 45.9175E,2023-10-01T18:00:00Z
+Minefield Survey,AD07,2100,0.80,Zone G,Osama Al-Kharj,Route 7,Low,Area 6,14.4839N, 45.9180E,2023-10-01T20:00:00Z
+Community Liaison,AD08,1600,0.92,Zone H,Samira Al-Dhalea,Route 8,Moderate,Area 8,14.4842N, 45.9195E,2023-10-01T22:00:00Z
+Explosive Awareness,AD09,2700,0.81,Zone I,Khaled Al-Jawf,Route 9,High,Area 10,14.4845N, 45.9200E,2023-10-02T00:00:00Z
+Victim Assistance,AD10,2000,0.87,Zone J,Yasmeen Al-Saleh,Route 10,Low,Area 9,14.4848N, 45.9215E,2023-10-02T02:00:00Z

@@ -1,0 +1,11 @@
+assessment_id,province_name,district_name,assessment_date,facility_coverage,resource_allocation,security_situation,community_feedback,group_sensitivity_index,aid_distribution_status,contact_phone
+A01,Kabul,Shakardara,2023-09-15,High,Allocated,Stable,Positive,0.8,Completed,0791234567
+A02,Herat,Guzara,2023-08-22,Medium,Pending,Unstable,Neutral,0.5,In Progress,0788765432
+A03,Kandahar,Arghandab,2023-07-30,Low,Allocated,Stable,Negative,0.7,Delayed,0776543210
+A04,Balkh,Mazar-i-Sharif,2023-06-18,High,Allocated,Stable,Positive,0.2,Completed,0765432109
+A05,Nangarhar,Jalalabad,2023-05-05,Medium,Pending,Volatile,Neutral,0.9,In Progress,0754321098
+A06,Kunduz,Chahar Dara,2023-04-12,Low,Allocated,Unstable,Negative,0.6,Delayed,0743210987
+A07,Helmand,Lashkar Gah,2023-03-28,High,Allocated,Stable,Positive,0.3,Completed,0732109876
+A08,Badakhshan,Fayzabad,2023-02-14,Medium,Pending,Volatile,Neutral,0.4,In Progress,0721098765
+A09,Baghlan,Puli Khumri,2023-01-10,Low,Allocated,Unstable,Negative,0.7,Delayed,0710987654
+A10,Ghazni,Ghazni City,2022-12-20,High,Allocated,Stable,Positive,0.1,Completed,0709876543

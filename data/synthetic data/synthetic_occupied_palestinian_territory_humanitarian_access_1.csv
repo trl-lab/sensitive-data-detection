@@ -1,0 +1,11 @@
+organization_id,organization_name,sector_focus,access_rating,service_availability,control_zone,movement_restriction,incident_reports,distribution_center,contact_name,contact_email
+1,Global Aid Network,Health,High,Operational,Zone A,Severe,3,North Gaza,Ahmed Ali,ahmed.ali@example.org
+2,Relief Partners,Food Security,Moderate,Limited,Zone B,Moderate,1,East Jerusalem,Nour Hassan,nour.hassan@example.org
+3,Humanitarian Relief Agency,Education,Low,Partial,Zone C,None,0,South Hebron Hills,Samira Yasin,samira.yasin@example.org
+4,Emergency Support Group,Shelter,High,Operational,Zone A,Severe,5,West Bank Central,Issa Faiz,issa.faiz@example.org
+5,International Aid Consortium,WASH,Moderate,Limited,Zone B,Moderate,2,Gaza City,Dalia Nader,dalia.nader@example.org
+6,Palestinian Support Network,Protection,Low,Partial,Zone C,None,1,North Hebron,Karim Salem,karim.salem@example.org
+7,Disaster Response Team,Nutrition,High,Operational,Zone A,Severe,4,Jericho,Amina Karam,amina.karam@example.org
+8,Community Assistance Group,Livelihoods,Moderate,Limited,Zone B,Moderate,2,Ramallah,Majed Omar,majed.omar@example.org
+9,Crisis Management Unit,Logistics,Low,Partial,Zone C,None,0,South Gaza,Leila Barakat,leila.barakat@example.org
+10,Relief Outreach Initiative,Health,High,Operational,Zone A,Severe,6,Bethlehem,Salim Youssef,salim.youssef@example.org

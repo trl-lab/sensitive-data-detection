@@ -1,0 +1,11 @@
+camp_id,camp_name,province,facility_status,population_estimate,access_challenges,control_zone,individual_needs,group_vulnerability_index,incident_reports,last_update_date
+1,Al-Hawl,Duhok,functional,12000,restricted access,Zone A,medical aid,3,2 minor incidents,2023-09-15
+2,Karbala Refugee Camp,Erbil,partially functional,8500,roadblocks,Zone B,psychosocial support,4,1 major incident,2023-08-30
+3,Sharya Camp,Sulaymaniyah,non-functional,20000,unrest,Zone C,food supply,5,3 minor incidents,2023-09-10
+4,Basra Temporary Shelter,Basra,functional,9500,checkpoint delays,Zone A,water sanitation,2,no incidents,2023-09-05
+5,New Mosul Camp,Nineveh,functional,18000,none,Zone B,education services,1,1 minor incident,2023-09-20
+6,Kirkuk Transit Center,Kirkuk,partially functional,12000,curfews,Zone D,shelter repair,4,2 major incidents,2023-09-12
+7,Erbil Emergency Shelter,Erbil,functional,15000,restricted access,Zone A,healthcare,3,1 minor incident,2023-08-25
+8,Zakho Camp,Duhok,non-functional,7000,heavy traffic,Zone C,nutritional support,5,3 minor incidents,2023-09-18
+9,Samawah Displacement Site,Muthanna,functional,11000,none,Zone B,legal assistance,2,no incidents,2023-09-22
+10,Anbar Refugee Camp,Anbar,partially functional,16000,security checks,Zone D,child protection,4,2 major incidents,2023-09-08

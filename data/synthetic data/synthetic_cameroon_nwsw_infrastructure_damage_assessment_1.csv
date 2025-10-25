@@ -1,0 +1,11 @@
+assessment_id,region,damage_severity,assessment_date,organization,contact_email,area_control_status,accessibility,estimated_repair_cost,community_needs_index,geo_location,reporting_incident
+DAM001,NW,Severe,2023-07-14,UNICEF,contact_nw@unicef.org,Gov-Controlled,Restricted,150000,High,5.9475,10.0200,Yes
+DAM002,SW,Moderate,2023-07-16,WHO,contact_sw@who.int,Contested,Limited,75000,Medium,4.9847,9.2233,No
+DAM003,NW,Minor,2023-07-18,Red Cross,info_nw@redcross.org,Gov-Controlled,Open,20000,Low,6.2147,10.4357,No
+DAM004,SW,Severe,2023-07-20,UNHCR,info_sw@unhcr.org,Non-Gov-Controlled,Restricted,180000,Very High,5.4567,9.7123,Yes
+DAM005,NW,Moderate,2023-07-22,IRC,contact_nw@rescue.org,Contested,Limited,85000,Medium,6.0703,10.1210,Yes
+DAM006,SW,Minor,2023-07-24,OCHA,info_sw@ocha.org,Gov-Controlled,Open,25000,Low,4.9592,9.3019,No
+DAM007,NW,Severe,2023-07-26,UNDP,contact_nw@undp.org,Non-Gov-Controlled,Restricted,160000,High,6.3284,10.5243,Yes
+DAM008,SW,Moderate,2023-07-28,MSF,info_sw@msf.org,Contested,Limited,90000,Medium,5.2294,9.6678,No
+DAM009,NW,Minor,2023-07-30,PLAN,contact_nw@plan-international.org,Gov-Controlled,Open,30000,Low,6.1123,10.1789,No
+DAM010,SW,Severe,2023-08-02,CARE,info_sw@care.org,Non-Gov-Controlled,Restricted,170000,Very High,5.7124,9.8756,Yes

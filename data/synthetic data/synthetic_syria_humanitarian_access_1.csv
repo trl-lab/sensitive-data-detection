@@ -1,0 +1,11 @@
+activity_category,ngo_presence,governorate,locality,response_status,incident_reports,control_checkpoints,aid_distribution_routes,critical_stock_alerts,access_violation_notices,contact_name,contact_email
+Health,Active,Idlib,Ma'arrat Misrin,Ongoing,2,3,Route A,Low,1,Amina Al-Assad,amina.alassad@example.org
+Education,Limited,Al-Hasakah,Al-Malikiyah,Pending,1,5,Route B,Medium,0,Karim Al-Najjar,karim.najjar@example.com
+Food Security,Active,Rif Dimashq,Douma,Completed,3,4,Route C,High,2,Leila Haddad,leila.haddad@example.net
+Protection,Inactive,Aleppo,Jarabulus,Delayed,0,2,Route D,Medium,1,Ziad Al-Fayed,ziad.alfayed@example.org
+Shelter,Active,Homs,Al-Rastan,Ongoing,4,6,Route E,Low,0,Farah Khoury,farah.khoury@example.com
+Health,Limited,Daraa,Al-Sanamayn,Pending,1,3,Route F,High,3,Samir Al-Masri,samir.almasri@example.net
+WASH,Active,Latakia,Jableh,Completed,2,4,Route G,Medium,1,Yasmine Al-Hakim,yasmine.alhakim@example.org
+Nutrition,Inactive,Hama,Kafr Zita,Delayed,0,5,Route H,Low,0,Bassam Al-Rahman,bassam.alrahman@example.com
+Education,Active,Deir ez-Zor,Al-Busayrah,Ongoing,5,7,Route I,High,2,Noor Al-Amin,noor.alamin@example.net
+Protection,Limited,Ar-Raqqa,Al-Thawrah,Pending,3,2,Route J,Medium,1,Hassan Al-Shami,hassan.alshami@example.org

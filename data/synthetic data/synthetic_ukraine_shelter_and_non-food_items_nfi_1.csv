@@ -1,0 +1,11 @@
+facility_id,facility_type,organization_name,activity_description,access_status,control_status,incident_reported,population_at_risk,contact_person,contact_email,service_coverage
+UKR001,Temporary Shelter,Relief Aid Group,Distribution of blankets and clothing,Limited access,Contested,2,150,Anna Ivanova,anna.ivanova@relief.org,Urban
+UKR002,Community Center,Helping Hands,Provision of hygiene kits,Open,Government,0,200,Sergei Petrov,sergei.petrov@helpinghands.org,Suburban
+UKR003,Warehouse,Humanitarian Support,Storage of NFIs,Restricted access,Non-government,5,300,Olga Melnik,olga.melnik@humanitarian.org,Rural
+UKR004,Temporary Shelter,Emergency Relief Unit,Hot meal distribution,Open,Government,1,100,Kateryna Bondar,kateryna.bondar@emergency.org,Urban
+UKR005,Mobile Unit,Global Aid Network,On-site medical assistance,Limited access,Non-government,3,400,Dmitri Sokolov,dmitri.sokolov@globalaid.org,Suburban
+UKR006,Distribution Point,United Help,Water and sanitation services,Open,Contested,0,250,Irina Kuznetsova,irina.kuznetsova@unitedhelp.org,Rural
+UKR007,Community Center,Relief Outreach,Educational support for children,Restricted access,Government,4,180,Petro Moroz,petro.moroz@reliefoutreach.org,Urban
+UKR008,Warehouse,Support Alliance,Storage and distribution of medical supplies,Limited access,Contested,1,350,Natalia Kravchenko,natalia.kravchenko@supportalliance.org,Suburban
+UKR009,Temporary Shelter,Refugee Support,Provision of bedding and tents,Open,Non-government,2,500,Yuri Nikitin,yuri.nikitin@refugeesupport.org,Rural
+UKR010,Mobile Unit,Life Aid,Logistics and transport of NFIs,Restricted access,Government,0,150,Valentina Fedorova,valentina.fedorova@lifeaid.org,Suburban

@@ -1,0 +1,11 @@
+region_name,facility_type,admin_level,population_total,organization_presence,damage_severity,access_constraints,control_zone,incident_reports,displacement_routes,response_overview
+Khartoum,Hospital,State,1500000,MSF,High,Checkpoints,Zone A,5,Route 23,Limited access due to conflict
+Omdurman,School,Locality,900000,UNICEF,Moderate,Curfew,Zone B,3,Route 12,Ongoing assessments
+Port Sudan,Warehouse,State,500000,Red Cross,Severe,Restricted entry,Zone C,8,Route 45,Supply chain disrupted
+Kassala,Clinic,Locality,350000,WHO,Low,Permits required,Zone D,1,Route 15,Stable but tense
+El-Obeid,Marketplace,Locality,400000,UNHCR,Moderate,Military presence,Zone E,4,Route 32,Partial recovery operations
+Nyala,School,State,700000,Save the Children,High,Travel bans,Zone F,6,Route 9,Security threats reported
+El Fasher,Hospital,Locality,800000,ICRC,Severe,Frequent roadblocks,Zone G,7,Route 21,Medical supplies needed urgently
+Geneina,Warehouse,State,300000,CARE,Moderate,Limited movement,Zone H,2,Route 27,Coordination with local authorities
+Kadugli,Clinic,Locality,250000,IRC,Low,Security checks,Zone I,1,Route 39,Improved conditions
+El Geneina,Marketplace,State,600000,WFP,High,Highway closures,Zone J,9,Route 19,Delays in aid distribution
